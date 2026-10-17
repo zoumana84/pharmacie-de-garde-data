@@ -1,0 +1,6437 @@
+{
+ "generatedAt": "2026-10-17T18:11:54.851Z",
+ "sources": [
+  "garde-octobre-2026.pdf",
+  "semaine-du-17-au-23-octobre-2026.pdf"
+ ],
+ "weeks": [
+  {
+   "start": "2026-10-03",
+   "end": "2026-10-09"
+  },
+  {
+   "start": "2026-10-10",
+   "end": "2026-10-16"
+  },
+  {
+   "start": "2026-10-17",
+   "end": "2026-10-23"
+  },
+  {
+   "start": "2026-10-24",
+   "end": "2026-10-30"
+  },
+  {
+   "start": "2026-10-31",
+   "end": "2026-11-06"
+  }
+ ],
+ "pharmacies": [
+  {
+   "name": "Pharmacie Du Centre",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 47 85 90 09",
+    "01 40 27 54 76",
+    "05 85 02 61 52"
+   ],
+   "address": "ABOBO AVOCATIER VOIE EXPRESS ANYAMA PRES DE L’HOTEL DU CENTRE ET DE L’EGLISE UNIVERSELLE DU ROYAUME DE DIEU",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Abobo Sante",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 49 21 83 12",
+    "27 24 39 13 84"
+   ],
+   "address": "EN FACE DE L’HOPITAL GENERAL D’ABOBO SUD, A COTE DU GRAND MARCHE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Divine Esperance",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "27 24 39 78 92",
+    "07 08 69 43 23",
+    "01 02 03 90 90"
+   ],
+   "address": "ABOBO SAGBE ENTRE PAROISSE ST JOSEPH EPOUX ET COMMISSARIAT DU 21EME ARRONDT.",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Amina",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 07 90 36 82",
+    "07 57 48 94 47"
+   ],
+   "address": "ABOBO AVOCATIER / PRES MATERNITE HENRIETTE KONAN BEDIE PRES DU MARCHE AVOCATIER",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Quatre Etages",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "27 24 39 06 62"
+   ],
+   "address": "EN FACE DES 4 ETAGES ET A 100 M DE L’HOPITAL GENERAL D'ABOBO NORD",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie St Francois Xavier",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "05 76 51 65 64"
+   ],
+   "address": "ABOBO SOGEFIHA / 300 M DU 15 EME ARRONDISSEMENT",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Du Marche Akeikoi",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "27 24 39 00 35",
+    "07 49 68 23 22",
+    "01 55 59 63 98"
+   ],
+   "address": "ABOBO AKEIKOI / ZONE DU MARCHE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Abobo Clouetcha",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 57 48 53 89",
+    "07 57 12 33 13"
+   ],
+   "address": "ABOBO KENNEDY QUARTIER CLOUETCHA CARREFOUR ANCIENNE BOULANGERIE NON LOIN DU MARCHE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Principale D’Abobote (Nouvelle)",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 09 84 68 91",
+    "01 02 37 06 15"
+   ],
+   "address": "PETIT MARCHE D’ABOBOTE / PRES DE LA GARE DES TAXIS WORO WORO",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Azur",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 59 85 10 59",
+    "01 40 27 50 02"
+   ],
+   "address": "ROUTE DU ZOO PLATEAU DOKUI AZUR / CARREFOUR POLICIER",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie La Providence",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 09 86 26 38",
+    "07 07 52 35 27"
+   ],
+   "address": "QUARTIER BANCO / 1er ARRET SOTRA / DEBUT AUTOROUTE ANYAMA",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Racines",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 88 77 37 67"
+   ],
+   "address": "SITUEE ENTRE COOPEC SAMANKE ET HOPITAL ABOBO BANCO SUD",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Zanon Pierre",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 48 05 91 89",
+    "07 48 05 90 76"
+   ],
+   "address": "ABOBO BAOULE ROUTE D’ALEPE CARREFOUR MOSQUEE EN FACE DU SUPERMARCHE BON PRIX",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Safir",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 09 86 26 35",
+    "05 05 83 54 83"
+   ],
+   "address": "PK 18 / ROUTE D’ANYAMA / DERRIERE PONT / PLACE ANCIENNE BOULANGERIE ROUTE N’DOTRE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie N’Dotre",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 77 10 47 14"
+   ],
+   "address": "ABOBO AXE NDOTRE ANYAMA / ENVIRON 600 M CARREFOUR NDOTRE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie St Alexandre",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 59 04 35 42",
+    "01 40 29 69 84"
+   ],
+   "address": "EN ALLANT AU BOIS SEC / A L'ENTREE PRINCIPALE DE LA CITE SICOGI CONCORDE.",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Synovie",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "01 03 91 08 54",
+    "07 98 74 61 89",
+    "27 36 85 75 24"
+   ],
+   "address": "ABOBO N’DOTRE EN FACE MARCHE GOURO",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Elie Faustine",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "05 44 11 26 12",
+    "01 40 30 69 54"
+   ],
+   "address": "ANYAMA N’DOTRE-BLANKRO",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Agnitio",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "01 40 43 10 10",
+    "05 01 07 30 30"
+   ],
+   "address": "ABOBO ANONKOUA KOUTE EXTENSION / A 50 M DU GROUPE SCOLAIRE PARTHENON / AU CARREFOUR ALLO",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Le Labelle",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "05 95 57 95 06",
+    "01 43 54 40 83"
+   ],
+   "address": "ANYAMA QUARTIER ZOSSONKOI EXTENSION ENVIRON 500 M DE L’HOPITAL GENERAL D’ANYAMA",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Eliel",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "27 33 73 73 56",
+    "07 69 74 22 69"
+   ],
+   "address": "ANYAMA QUARTIER RAN FACE A LA GARE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Route D’Anyama (Nouvelle)",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "01 52 78 88 33"
+   ],
+   "address": "ABOBO PK 18 FACE A LA SOCIETE OLAM (ex- UNICAFE) A 100M DE LA STATION PETROCI",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Des Generations De Montezo",
+   "commune": "Abobo",
+   "zone": "Alépé / Montezo / Brofodoumé",
+   "phones": [
+    "07 57 49 38 47",
+    "07 07 40 47 08"
+   ],
+   "address": "",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Du Chateau D'Eau",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 11 68"
+   ],
+   "address": "BD WILLIAM JACOB / ADJAME NORD / EN DESCENDANT LES RAILS VERS LA SODECI",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Gbede",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "07 58 09 47 03"
+   ],
+   "address": "BD. NANGUI ABROGOUA / FACE DISPENSAIRE D’ADJAME / NON LOIN DU COMMISSARIAT DU 3EME ARRONDT ET DU GD MARCHE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Adjame Bracodi",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 54 33",
+    "07 57 49 46 08"
+   ],
+   "address": "GARE NORD SOTRA DANS LA ZONE DE STATIONNEMENT DES GBAKAS / DANS LE SENS ADJAME ABOBO",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Fraternite (Nouvelle)",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "07 00 32 15 15",
+    "05 03 76 06 06",
+    "01 61 17 44 22"
+   ],
+   "address": "PRES DU FSU COM 220 LGTS (Ex MATERNITE THERESE HOUPHOUET BOIGNY)",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Adjame Latin",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "01 40 65 86 49",
+    "05 75 16 33 30"
+   ],
+   "address": "PROLONGEMENT DE L'AVENUE 13 / QUARTIER LATIN HABITAT EXTENSION / PRES DU PETIT MARCHE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Quartier Ebrie",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 12 56"
+   ],
+   "address": "FACE GARE STIFF DALOA",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie St Michel",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 09 06"
+   ],
+   "address": "AVENUE 13 / A 50 M DE L’EGLISE ST MICHEL / EN FACE DU CEG / HARRIS",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Makissi",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "07 57 48 54 32"
+   ],
+   "address": "220 LGTS / PLACE DU CINEMA LIBERTE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Agoua",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "07 09 31 27 51",
+    "01 40 21 32 73"
+   ],
+   "address": "ATTECOUBE FACE BOULANGERIE BBCO",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Fatima (Nouvelle)",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "01 02 56 10 10",
+    "05 54 89 17 73"
+   ],
+   "address": "ATTECOUBE CARREFOUR DU PONT",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Christ Stella",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "01 71 56 18 17",
+    "27 20 28 62 96"
+   ],
+   "address": "CITE FAIRMOND ATTECOUBE APRES NOUVELLE GENDARMERIE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Sante Plus Williamsville (Ex Rapha)",
+   "commune": "Adjamé",
+   "zone": "Williamsville",
+   "phones": [
+    "01 00 01 46 36",
+    "07 04 98 27 44"
+   ],
+   "address": "VERS MACACI / FACE BOULANGERIE BMW",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Carrefour Hma",
+   "commune": "Adjamé",
+   "zone": "Williamsville",
+   "phones": [
+    "07 79 47 39 22",
+    "05 76 54 52 14"
+   ],
+   "address": "PAILLET EXTENSION / NON LOIN DU ZOO CARREFOUR CI",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Nissi (Nouvelle)",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "27 22 40 19 04",
+    "07 87 31 66 48",
+    "07 58 33 88 48"
+   ],
+   "address": "CITE FEH KESSE SUR LA NOUVELLE VOIE GOUDRONNEE / 300 M APRES L’ECOLE MATERNELLE LA PRUNELLE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Motto",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "05 05 10 13 11",
+    "07 09 53 76 88",
+    "27 22 53 62 35"
+   ],
+   "address": "BINGERVILLE, BLVD DOMINIQUE OUATTARA, PRES DE L’HOTEL FREE WORLD, FACE AU QUARTIER PARIS VILLAGE A PROXIMITE DE LA CITE BNEDT",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Les Colombes",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "07 15 97 55 59",
+    "27 24 36 45 62"
+   ],
+   "address": "BINGERVILLE, AV KONAN KOUASSI LAMBERT, NON LOIN DE LA PAROISSE ST MARCEL, AKOUAI-SANTAI",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Kore",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "07 16 00 15 15",
+    "01 01 76 76 32"
+   ],
+   "address": "BINGERVILLE GBAGBA EXTENSION CARREFOUR SAINT CYRILLE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Akre Albert Assamoi",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "07 57 13 68 36",
+    "01 40 95 24 28"
+   ],
+   "address": "NLLE GARE ROUTIERE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Du Palais De Justice Bingerville",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "27 22 55 79 07",
+    "07 20 20 34 83"
+   ],
+   "address": "BINGERVILLE AV. M’BATTO BOUAKE ROUTE DU PALAIS DE JUSTICE (NANMOUE RESIDENTIEL)",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Amaryllis",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "01 41 17 82 92",
+    "27 24 30 86 08"
+   ],
+   "address": "BINGERVILLE DERRIERE LE JARDIN BOTANIQUE. CITES SPIAC, OPES 1, S 3 I, GARE DE TAXI",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Akandje",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "01 72 75 01 01",
+    "05 06 39 16 55",
+    "07 00 77 96 70"
+   ],
+   "address": "BINGERVILLE AKANDJE 2 EN FACE DU MARCHE NON LOIN DES SOCIETES PROMOTIONS PERFORMERS",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Idureil",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "05 55 74 06 18",
+    "07 49 37 95 73"
+   ],
+   "address": "BINGERVILLE KOFFIKRO CARREFOUR BASSAMOISE NON LOIN DE COTE D’IVOIRE ENERGIE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Hosanna",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 55 25 59",
+    "01 01 17 29 31",
+    "07 97 64 33 50"
+   ],
+   "address": "RIVIERA 3 TRIANGLE / ENTRE LE CENTRE DES IMPOTS DE LA RIVIERA ET LE RD POINT DE L’ANCIEN CAMP D’AKOUEDO / PRES DE LA CLINIQUE ST VIATEUR.",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Laurier 9",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "07 87 16 73 09",
+    "01 40 38 78 78"
+   ],
+   "address": "A COTE DES GROUPES SCOLAIRES LAURIER 8 ET 9 / ANCIENNE ROUTE DE BINGERVILLE SUR L’AXE ALLANT DU SUPERMARCHHE BON PRIX DE FAYA VERS L’EGLISE WINNERS CHAPEL",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Livie",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 47 48 78",
+    "01 01 83 24 84",
+    "07 49 50 84 78"
+   ],
+   "address": "AKOUEDO VILLAGE ENTRE DISPENSAIRE ET GARE DES WORO WORO / NON LOIN DE LA CITE ATCI",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Le Rocher",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "07 98 18 28 93",
+    "07 59 48 40 49",
+    "07 88 68 19 93",
+    "05 76 80 32 96"
+   ],
+   "address": "ROUTE D’ABATTA, PRES DE LA DIRECTION GENERALE DES IMPOTS D’ABATTA",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Jules Verne",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 52 30 63",
+    "07 97 03 83 44",
+    "05 66 48 37 56"
+   ],
+   "address": "RIVIERA PALMERAIE ROUTE BINGERVILLE FACE AU COLLEGE FRANÇAIS JULES VERNE ET LA CITE SYNATRESOR",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie St Martin De Faya",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 55 69 39",
+    "01 03 45 38 88",
+    "07 59 82 21 15"
+   ],
+   "address": "RIVIERA FAYA PROLONGEMENT CLOTURE NOUVEAU CAMP MILITAIRE D’AKOUEDO APRES CITE GENIE 2000",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Keliam",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "07 04 73 04 35"
+   ],
+   "address": "CARREFOUR ABATTA / A GAUCHE ROUTE CITE SIR EN BORDURE DU NOUVEAU GOUDRON",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Du Golf",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 43 14 31",
+    "27 21 38 90 48",
+    "07 59 19 32 54"
+   ],
+   "address": "A PROXIMITE DU FEU TRICOLORE DE LA GRANDE MOSQUEE DE LA RIVIERA GOLF",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie St Ange",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 43 22 05",
+    "01 01 62 53 60"
+   ],
+   "address": "RIVIERA II ROUTE D’ATTOBAN / PRES DU COLLEGE ANDRE MALRAUX",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Riviera Iii",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 47 56 16",
+    "07 09 01 01 84"
+   ],
+   "address": "ROUTE DU LYCEE FRANÇAIS FACE LYCEE AMERICAIN (BASE ONUCI)",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Bonne Fortune",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 46 76 42",
+    "01 01 96 64 73"
+   ],
+   "address": "ROUTE DE L’UNIVERSITE UIPA AVANT LE CENTRE DE SANTE COMMUNAUTAIRE DE M’BADON",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Du Bonheur",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 47 10 70",
+    "27 22 47 02 88",
+    "05 02 13 08 18",
+    "01 43 96 58 24"
+   ],
+   "address": "RIVIERA PALMERAIE-MARCHE / RUE I 127 / RUE MARIE ROSE GUIRAUD",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Nouvelle Vie",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "21 20 80 41 61",
+    "01 01 03 35 34"
+   ],
+   "address": "RIVIERA PALMERAIE APRES L’HOTEL FRAICHEUR EN ALLANT VERS PROMOGIM",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Mont Carmel",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 50 07 58",
+    "01 03 42 42 83"
+   ],
+   "address": "RIVIERA LES ROSIERS 5EME PROGRAMME A PROXIMITE DE L’HOTEL BELLECOTE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie St Viateur",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "07 88 88 04 80"
+   ],
+   "address": "RIVIERA PALMERAIE / 200 M DU ROND POINT ST VIATEUR ROUTE HOPITAL GENERAL D’ANGRE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Bonoumin (Nouvelle)",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "07 07 93 68 50",
+    "27 22 49 49 34"
+   ],
+   "address": "COCODY RIVIERA BONOUMIN / VOIE MENANT DU COLLEGE ANDRE MALRHAUX A L’EGLISE LA DESTINEE (NOUVEAU GOUDRON)",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie De L'Oasis De Paix",
+   "commune": "Cocody",
+   "zone": "Cocody",
+   "phones": [
+    "01 42 64 22 64",
+    "07 07 44 82 46"
+   ],
+   "address": "UNIVERSITE FHB DE COCODY / BÂTIMENT CENTRAL EST / DIRECTION CHU EN FACE DU PARKING BOLLORE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie De La Cite Rouge",
+   "commune": "Cocody",
+   "zone": "Cocody",
+   "phones": [
+    "27 22 44 63 68",
+    "27 22 44 63 67"
+   ],
+   "address": "COCODY DANGA / FACE CITE ROUGE ET ANTENNE INPH",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Des Deux Plateaux (Grde)",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 41 36 04",
+    "05 54 53 15 72"
+   ],
+   "address": "BD LATRILLE ENTRE LA STATION OILIBYA ET SOCOCE II PLATEAUX EN FACE DE LA SGBCI",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie St Joseph",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "07 79 76 05 77",
+    "05 46 00 04 44",
+    "01 42 05 75 76"
+   ],
+   "address": "RUE DES JARDINS FACE CLINIQUE LES BLEUETS",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Du Vallon",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 41 35 14"
+   ],
+   "address": "A COTE DU CASH CENTER DES II PLATEAUX",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie St Gabriel",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 42 58 35"
+   ],
+   "address": "BD LATRILLE 900 M DU SPORTING CLUB EN ALLANT VERS ANGRE FACE PERLES GRISES / BUS 81 & 82",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie St Ambroise",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "07 07 20 34 77",
+    "27 22 53 47 78"
+   ],
+   "address": "ANGRE MAHOU A LA RUE DES BARS",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Du Jubile (Gde)",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 50 38 22"
+   ],
+   "address": "ANGRE FACE EPP CAFEIER A ET B / A 50 M DE L’ECOLE COMMANDANT COUSTEAU",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Bien Etre (Gde)",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 50 80 80",
+    "27 22 50 11 11",
+    "01 02 32 83 83"
+   ],
+   "address": "ANGRE DE LA 8EME TRANCHE SUR LA VOIE DE LA CNPS / A L’ENTREE PRINCIPALE DE LA CITE SOLEIL 3",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Les Arcades",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 50 62 25"
+   ],
+   "address": "DJIBI 8ème TRANCHE / TERMINUS BUS EXPRESS 205",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Centrale-Angre",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 46 74 25"
+   ],
+   "address": "BD LATRILLE / REZ DE CHAUSSEE DE L’IMMEUBLE ABRI 2000 ET A 100 M DU CHATEAU D’EAU D’ANGRE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Bethanie",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 36 62 83"
+   ],
+   "address": "KOUMASSI SICOGI BIA SUD / ROUTE MENANT DU CAMP COMMANDO A LA ZONE INDUSTRIELLE / ZONE DU PETIT MARCHE SICOGI A COTE DE LA STATION VINKO",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Du Soleil",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 36 05 98"
+   ],
+   "address": "ANGLE AVENUE I ET BD DU GABON A 200 M DES PTT",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Ste Agathe",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 56 51 88"
+   ],
+   "address": "89 KOUMASSI REMBLAIS RUE DU CANAL / A COTE DU COLLEGE LA COLOMBE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie St Francois",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 36 21 77"
+   ],
+   "address": "ANGLE AV. 9 & RUE 11 / PROLONGEMENT BD DU GABON EN ALLANT VERS PRODOMO",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie St Paul",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 73 51 56",
+    "07 79 44 54 31"
+   ],
+   "address": "KOUMASSI NORD EST AKROMIANBLA NON LOIN DU TERMINUS 32 / PRES DE L’HOTEL LE RECUL",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Le Roc",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 36 04 86",
+    "07 47 24 55 64"
+   ],
+   "address": "QUARTIER CAMPEMENT A 100M DE L’EPV BELIER",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie De L'I.N.J.S",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "07 79 03 01 43"
+   ],
+   "address": "MARCORY GFCI F FACE I.N.J.S (INSTITUT NATIONAL DE LA JEUNESSE ET DES SPORTS) / BUS 03 & 31",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Métropole",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "27 21 39 27 19",
+    "01 73 49 13 07",
+    "01 73 49 14 24"
+   ],
+   "address": "DERRIERE ORCA DECO / NON LOIN DE LA PMI DE MARCORY",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Marcory Ptt",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "27 21 26 98 83"
+   ],
+   "address": "BD DU CAMEROUN 200 M DE LA POSTE DE MARCORY / DERRIERE LE COURS LAMARTINE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Leila",
+   "commune": "Marcory",
+   "zone": "Anoumabo",
+   "phones": [
+    "27 21 26 72 94",
+    "07 58 09 47 85"
+   ],
+   "address": "MARCORY ANOUMABO -ALLIODAN (SANS FIL) NON LOIN DE L’ATCI & DE L’INSTITUT FROEBEL / 150 M DU CARREFOUR DJE BI DJE / BUS N° 03 & 31",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie De La Zone 3",
+   "commune": "Marcory",
+   "zone": "Marcory Sud",
+   "phones": [
+    "27 21 35 13 15"
+   ],
+   "address": "09 76 SQUARE CENTER, DERRIERE CAP SUD RUE CLEMENT ADER ENTRE LE RALLYE ET CALLIVOIRE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Perusia",
+   "commune": "Marcory",
+   "zone": "Marcory Sud",
+   "phones": [
+    "27 21 57 46 08",
+    "01 01 05 26 86",
+    "05 45 14 87 87"
+   ],
+   "address": "MARCORY ZONE 4C / RUE DU CANAL / IMMEUBLE MANOUCHKA",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Du Bd Giscard D'Estaing",
+   "commune": "Marcory",
+   "zone": "Marcory Sud",
+   "phones": [
+    "07 58 09 46 44",
+    "05 45 70 47 89"
+   ],
+   "address": "CARREFOUR SCORE DE KOUMASSI / STATION TEXACO",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Des Finances",
+   "commune": "Plateau",
+   "zone": "Plateau",
+   "phones": [
+    "27 20 30 39 50"
+   ],
+   "address": "IMMEUBLE SITARAIL / CITE FINANCIERE / DE LA CATHEDRALE DESCENDRE / LA RUE PRINCIPALE DU PALAIS DE JUSTICE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Atlantique",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "27 21 27 95 00",
+    "25 21 01 17 80",
+    "07 12 15 00 18",
+    "07 19 26 94 87"
+   ],
+   "address": "SOGEFIHA PRES DU MARCHE DE NUIT",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Malon",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "27 21 27 96 14",
+    "07 68 26 00 40"
+   ],
+   "address": "PORT BOUET QUARTIER",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie De La Cite Policiere",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "07 07 07 58 00"
+   ],
+   "address": "CITE POLICIERE ROUTE DE VRIDI",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Vridi-Village",
+   "commune": "Port-Bouët",
+   "zone": "Vridi",
+   "phones": [
+    "27 21 39 13 70",
+    "27 21 27 58 60"
+   ],
+   "address": "VRIDI CANAL / ZONE DU ROND POINT TERMINUS BUS 19 / NON LOIN DE LA SIR",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Sante Pour Tous",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "01 01 69 38 91",
+    "07 08 02 47 86"
+   ],
+   "address": "PORT BOUET / RUE CASIER CARREFOUR BACHIROU SUR LA VOIE DE L’EGLISE CATHOLIQUE CHRIST ROI DE JEAN FOLLY",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie St Louis De Gonzag",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "07 58 09 46 25",
+    "01 42 50 98 55"
+   ],
+   "address": "FACE LYCEE MUNICIPAL DE GONZAG",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie De La Benediction",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "01 43 20 82 14",
+    "27 33 73 48 46",
+    "28 33 73 48 35"
+   ],
+   "address": "CARREFOUR MOTAR DANS LA ZONE DU JOCKEY CLUB - GONZAGUEVILLE COCOTERAIE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Des 3 Mosquees",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "27 21 24 21 96"
+   ],
+   "address": "DANS L’AVENUE 8 RUE 22 BARREE A 300 M DE LA STATION SHELL IMMEUBLE NANAN YAMOUSSOU RUE 38",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Des Brasseurs",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "27 21 25 17 25"
+   ],
+   "address": "FACE AU CHU DE TREICHVILLE / ENTRE STATION BP ET IMPRIMERIE ABIDJAN CONTINU / I RUE DES BRASSEURS",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Ste Jeanne",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "27 21 24 57 41"
+   ],
+   "address": "ENTREE MARCHE DE BELLEVILLE / FACE STATION PETRO IVOIRE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie D'Abobodoume",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 21 32 39 90",
+    "01 71 28 85 72",
+    "07 58 48 07 89"
+   ],
+   "address": "FACE NOUVEAU LYCEE MUNICIPAL D'ATTECOUBE / PRES DE LA FORMATION SANITAIRE M. FAITAI ABOBODOUME / CARREFOUR DES GBAKAS",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Mere De Graces",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "23 22 85 02",
+    "05 56 00 43 54",
+    "07 20 60 35 60"
+   ],
+   "address": "BANCO NORD SUR L’AXE INSTITUT DES AVEUGLES - S.I BETON",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie William Ponty",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 42 71 90 28",
+    "07 77 30 78 04",
+    "27 23 24 19 46"
+   ],
+   "address": "YOPOUGON SICOGI FACE COLLEGE WILLIAM PONTY",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Tereza (Grande)",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "25 23 01 20 00",
+    "07 08 76 84 64"
+   ],
+   "address": "YOPOUGON SOGEFIHA « MAGASIN » / ROUTE NIANGON",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie De L’Amitie (Gde)",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 03 13 35 52",
+    "01 72 60 56 92"
+   ],
+   "address": "YOPOUGON ATTIE NOUVEAU GOUDRON A PROXIMITE DE L’ESPACE ALLOCODROME DE BANCO II / FACE EPP BANCO IIX",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Yacine",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 89 84 49 82",
+    "01 41 00 02 43"
+   ],
+   "address": "YOPOUGON TOIT ROUGE APRES LA POSTE / SUR VOIE ALLANT A LA LONACI ET AU COLLEGE OFFOUMOU YAPO",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Nikibel",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 02 21 77 27",
+    "07 58 49 96 92",
+    "25 23 00 14 67"
+   ],
+   "address": "YOPOUGON SOPIM / ANCIEN BEL AIR AVANT CARREFOUR COLLEGE ST LOUIS ZONE DU MARCHE GFCI FACE MAQUIS LE « PITCH »",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Carrefour Koweit",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 45 84 07"
+   ],
+   "address": "TOIT ROUGE / ROUTE ABOBODOUME",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie St Laurent",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 58 09 47 25",
+    "27 23 50 48 79"
+   ],
+   "address": "YOPOUGON CAMP MILITAIRE / GARE GBAKAS / 200 M TERMINUS SOTRA / BUS 37",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Sideci--Lem",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 42 68 84",
+    "07 04 53 97 58",
+    "05 05 06 19 60"
+   ],
+   "address": "A 300 M DU SUPERMARCHE ‘’SUPER U’’ ANCIEN CINEMA SAGUIDIBA EN ALLANT VERS LA SIDECI",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie De La Felicite",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 20 10 70 90",
+    "25 23 00 20 52"
+   ],
+   "address": "YOPOUGON MAROC CARREFOUR OBAMA ENTRE STATION SHELL ET HOTEL KIMI",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Jericho",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 45 62 38",
+    "01 01 18 02 25",
+    "07 89 40 14 20"
+   ],
+   "address": "YOPOUGON NIANGON NORD ACADEMIE FIN GOUDRON (ROUTE DE PAYS BAS)",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Maty",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 46 27 15",
+    "05 04 98 60 25"
+   ],
+   "address": "YOPOUGON NIANGON NORD / ENTRE STATION LUBAFRIQUE & COLLEGE ANADOR",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie De Port Bouet 2 Sarl (Nouvelle)",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 46 60 53",
+    "01 03 21 88 60"
+   ],
+   "address": "ROUTE NIANGON NORD - FACE MOSQUEE AL BILAL / BUS N° 39",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Alicia",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 45 11 52"
+   ],
+   "address": "YOPOUGON ANANERAIE ROUTE DE DABOU ENTRE MANUTENTION AFRICAINE ET CARREFOUR SODECI FACE QUARTIER BONIKRO",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie St Clement",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 41 53 12",
+    "07 03 94 98 78"
+   ],
+   "address": "YOPOUGON FACE AU CHU",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Sante Plus",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 52 58 66"
+   ],
+   "address": "YOPOUGON GESCO AUTOROUTE DU NORD 100 METRES AVANT LE CORRIDOR",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Bethel De Beago",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 87 43 77 27",
+    "01 40 05 76 48"
+   ],
+   "address": "YOPOUGON QUARTIER BEAGO / PRES DE L’EGLISE CATHOLIQUE STE TRINITE",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Carrefour Commissaire Micao",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 19 46 46 07",
+    "05 94 94 62 62"
+   ],
+   "address": "YOPOUGON ZONE INDUSTRIELLE / QUARTIER DEGUERPI",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Vie Divine D’Allokoi",
+   "commune": "Yopougon",
+   "zone": "Allokoi PK 23",
+   "phones": [
+    "07 05 75 76 90",
+    "05 01 19 23 23"
+   ],
+   "address": "AUTOROUTE DU NORD (KM22) EN FACE DE LA NOUVELLE ZONE INDUSTRIELLE DE YOPOUGON",
+   "weekStart": "2026-10-03"
+  },
+  {
+   "name": "Pharmacie Irys",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 12 67 97 65"
+   ],
+   "address": "ABOBO ANONKOUA KOUTE EN FACE DE L’HOPITAL DES SŒURS",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie De L'Etoile",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "01 02 44 06 88",
+    "07 07 79 06 48"
+   ],
+   "address": "ROND POINT DE LA BRIGADE DE GENDARMERIE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie St Antoine",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "27 20 24 77 47",
+    "07 07 87 31 47",
+    "01 42 36 67 68",
+    "01 02 82 75 87"
+   ],
+   "address": "ABOBO SAGBE CELESTE / DERRIERE RAIL TAXI GARE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Avocatier Marche",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "27 24 49 70 19",
+    "07 09 30 38 52"
+   ],
+   "address": "ABOBO AVOCATIER / A GAUCHE APRES LA CIE D’ABOBO NORD / APRES FORMATION SANITAIRE HENRIETTE KONAN BEDIE / CARREFOUR CHATEAU PRES GROUPE SCOLAIRE LES ANGELOTS",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie De La Cite",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "27 24 39 03 33",
+    "07 49 36 82 79"
+   ],
+   "address": "QUARTIER SOGEFIHA N'TANOUA PRES DE LA CITE UNIVERSITAIRE ET TERMINUS BUS SOTRA 49",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie De La Plaque Ii",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 09 89 94 44",
+    "05 46 63 84 13"
+   ],
+   "address": "ABOBO PLAQUE II / ENTRE LE MARCHE DE NUIT ET LE CARREFOUR DE LA PLAQUE II",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Plaque Anador",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 12 49 81 38"
+   ],
+   "address": "ABOBO BANCO SUR LA VOIE EXPRESS ENTRE LE CARREFOUR COCO SERVICE ET LE ROND POINT BANCO",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie D'Abobote",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "05 06 92 78 45",
+    "07 57 48 94 68"
+   ],
+   "address": "ROUTE DU ZOO / CARREFOUR MENUISERIE PRES DE LA CLINIQUE CENTRALE D'ABOBO",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Les 4 Saisons",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 58 60 90 30",
+    "01 53 42 30 81",
+    "27 21 78 84 35"
+   ],
+   "address": "CARREFOUR DU LYCEE ADAMA SANOGO / A L’INTERSECTION DE LA VOIE EGLISE STE MONIQUE-MARCHE D’ABOBOTE ET DE LA VOIE SODECI (DOKUI)-LYCEE ADAMA SANOGO",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Abobo Belleville (Nouvelle)",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 09 87 92 65",
+    "07 78 98 87 17"
+   ],
+   "address": "ABOBO BAOULE / ROUTE D’ALEPE / AU QUARTIER BELLEVILLE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Route Du Zoo",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "01 01 14 04 34",
+    "07 89 73 13 56"
+   ],
+   "address": "AXE DOKUI-ZOO / A 200 M DES STATIONS PETROCI ET VIDANGE / ENTREE DU QUARTIER DOKUI OLYMPE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Du Monastere",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 07 20 11 61",
+    "01 40 34 09 10"
+   ],
+   "address": "ROUTE D'ABOBO BAOULE / PRES DU MONASTERE DES SŒURS CLARISTES",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Marche Valentin",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 00 44 94 49",
+    "01 01 06 11 01",
+    "27 22 26 76 73"
+   ],
+   "address": "ANGRE EXTENSION DANS LE QUARTIER DERRIERE LE CHATEAU D'EAU D'ANGRE, NON LOIN DU MARCHE VALENTIN, DU COMMISSARIAT 40ème ARRONDISSEMENT ET DU FSU COM D'ABOBO BAOULE.\"",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Yandi",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "05 54 31 72 12",
+    "07 09 84 14 02"
+   ],
+   "address": "ABOBO AKEIKOI CARREFOUR DESTIN",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Carrefour Diallo",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 57 04 86 48"
+   ],
+   "address": "ABOBO PK 18 - NDOTRE « DERRIERE PONT » AU CARREFOUR DIALLO",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Carrefour Ndotre",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "01 40 07 27 68",
+    "05 86 47 93 87"
+   ],
+   "address": "ABOBO-NDOTRE / GD CARREFOUR NDOTRE / A 20 M DE LA VOIE NON BITUMEE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Residence Abobo Pk 18",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 58 60 26 12",
+    "07 67 25 15 85"
+   ],
+   "address": "AUTOROUTE D’ANYAMA / CARREFOUR ANCIEN MARCHE ENTREE CITE SICOGI",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Saint Francois",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 88 67 78 69",
+    "05 65 46 05 76"
+   ],
+   "address": "CARREFOUR TERRE ROUGE SUR L’AXE N’DOTRE STADE OLYMPIQUE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Amina T",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 13 17 50 15"
+   ],
+   "address": "ANYAMA N’DOTRE KOBAKRO",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie D'Anyama (Nouvelle)",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "27 23 55 94 18"
+   ],
+   "address": "",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Du Chateau",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "07 58 17 29 91",
+    "01 02 81 87 49"
+   ],
+   "address": "",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Belleville",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "05 85 41 61 61",
+    "01 51 56 65 65"
+   ],
+   "address": "QUARTIER ADJAME SINAÏ, BELLEVILLE 2",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie De Brofodoume",
+   "commune": "Abobo",
+   "zone": "Alépé / Montezo / Brofodoumé",
+   "phones": [
+    "05 44 90 73 48",
+    "01 42 62 32 72"
+   ],
+   "address": "",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Du Rocher",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 70 63"
+   ],
+   "address": "ADJAME NORD / MARCHE BRAMAKOTE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie De La Mairie",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 99 99",
+    "07 57 48 53 92"
+   ],
+   "address": "PRES DE LA MAIRIE D’ADJAME",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Du Banco",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "07 58 17 61 26",
+    "07 47 75 47 10",
+    "27 20 37 03 12"
+   ],
+   "address": "FACE SERVICE SOCIAL",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Le Belier",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 12 16",
+    "07 77 98 77 78"
+   ],
+   "address": "ARRET DE BUS DU GRAND BLOC 220 LGTS / ENTRE LIBERTE & FRATERNITE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Du Manguier (Grde)",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 20 36",
+    "07 97 60 65 11"
+   ],
+   "address": "ADJAME 220 LGTS QUARTIER EBRIE EN FACE DE L’EGLISE METHODISTE UNIE.",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Du Triomphe",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "07 07 01 14 18",
+    "01 42 75 44 56"
+   ],
+   "address": "PRES DE LA GARE UTB ADJAME",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Ste Marie D’Adjame",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 54 44",
+    "27 20 37 54 46"
+   ],
+   "address": "CENTRE COMMERCIAL DE LA POSTE 03 / RUE HARRISTE COTE PARKING PAYANT DERRIERE 3EME ARRDT",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Sebroko Sarl",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "27 20 37 67 48"
+   ],
+   "address": "PRES DU GRAND MARCHE D’ATTECOUBE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Du Rond Point",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "25 21 01 59 47",
+    "07 07 32 43 76"
+   ],
+   "address": "ATTECOUBE TERMINUS 04 / QUARTIER EBRIE (BIDJANTE)",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie D'Agban",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "27 20 37 22 30",
+    "27 20 37 21 67"
+   ],
+   "address": "CARREFOUR CITE FAIRMONT / VILLAGE AGBAN\"",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Sainte Rosalie",
+   "commune": "Adjamé",
+   "zone": "Williamsville",
+   "phones": [
+    "05 94 69 95 01"
+   ],
+   "address": "ADJAME WILLIAMSVILLE / MACACI QUARTIER SODECI A COTE DE LA STATION TOTAL",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie L'Emmanuel",
+   "commune": "Adjamé",
+   "zone": "Williamsville",
+   "phones": [
+    "27 20 38 40 17"
+   ],
+   "address": "CARREFOUR DES II PLATEAUX ENTRE STATION SHELL & DEPOT SOTRA",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie St Sylvestre",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "27 22 51 96 96",
+    "07 58 17 61 59"
+   ],
+   "address": "CITE PALMA / FACE RESTAURANT COUP DE FREIN",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Marina",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "27 22 27 04 92",
+    "07 97 16 64 99",
+    "01 40 08 74 21"
+   ],
+   "address": "CITE MARINA CARREFOUR SYNDICAT",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Carrefour Sante",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "07 59 59 30 17"
+   ],
+   "address": "BINGERVILLE AKOUAI SANTAI FACE STATION CORLAY AU CARREFOUR DU LYCEE DES JEUNES FILLES MAMIE FAITAI",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Havila",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "07 68 70 45 46"
+   ],
+   "address": "BINGERVILLE BLVD DOMINIQUE OUATTARA EN FACE DU FOYER DES JEUNES ET DU LYCEE MODERNE ENTRE NSIA BANQUE ET BNI",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Benedictions Bingerville",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "07 05 07 62 05",
+    "05 54 99 53 61"
+   ],
+   "address": "ROUTE ALLANT DE LA PHARMACIE AKRE ALBERT ASSAMOI A LA CITE ADDOHA A100M D’ANADER DANS LES ENVIRONS DU CHATEAU D’EAU ET LES LAURIERS 18",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie St Armel Du Palais",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "05 65 44 81 81",
+    "01 51 31 81 81"
+   ],
+   "address": "SITUEE A 100 M DU PALAIS DE JUSTICE DE BINGERVILLE, AXE M’BATTO-BOUAKE (NANMOUE RESIDENCE)",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Ste Marie De La Celle",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "07 02 95 24 31",
+    "01 51 92 25 91"
+   ],
+   "address": "BINGERVILLE DERRIERE EMPT / CITE PROMOGIM OLYMPIQUE (MTNKRO)",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Akandje",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "01 72 75 01 01",
+    "05 06 39 16 55",
+    "07 00 77 96 70"
+   ],
+   "address": "BINGERVILLE AKANDJE 2 EN FACE DU MARCHE NON LOIN DES SOCIETES PROMOTIONS PERFORMERS",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Idureil",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "05 55 74 06 18",
+    "07 49 37 95 73"
+   ],
+   "address": "BINGERVILLE KOFFIKRO CARREFOUR BASSAMOISE NON LOIN DE COTE D’IVOIRE ENERGIE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Caducee Moderne",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "05 85 66 35 35"
+   ],
+   "address": "AKOUEDO PALMERAIE ZONE ATCI CARREFOUR DU NOUVEAU CAMP ROUTE DE BINGERVILLE A 150 M DE LA VOIE PRINCIPALE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Eliezer",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 51 96 72",
+    "01 71 49 49 37"
+   ],
+   "address": "RIVIERA FAYA CARREFOUR AKOUEDO ZONE OPERATION IMMOBILIERE ATCI",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie De L’Alliance Akouedo Basket",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "21 23 80 96 92",
+    "01 04 96 67 67"
+   ],
+   "address": "RIVIERA AKOUEDO SECTEUR BASKET EN FACE DE LA GARE DES TAXIS COMMUNAUX D’AKOUEDO",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Abatta Village",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "07 05 71 05 10",
+    "05 03 69 34 22"
+   ],
+   "address": "ABATTA VILLAGE NON LOIN DE L’EGLISE CATHOLIQUE NOTRE DAME DE LOURDES",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Des Cites",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 46 82 90",
+    "01 01 76 58 64"
+   ],
+   "address": "RIVIERA AKOUEDO EN FACE DU LYCEE JULES VERNE / DANS LE PROLONGEMENT GAUCHE AU 2EME CARREFOUR",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Cite Sir",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "05 84 33 80 79"
+   ],
+   "address": "ABATTA VERS LA CITE SIR",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Kamon N’Sio",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 21 52 41 53",
+    "07 06 84 75 53",
+    "01 71 32 65 41",
+    "05 64 30 68 05"
+   ],
+   "address": "ABATTA RIVIERA EPHRATA IMMEUBLE SYMPHONIUM EN DIRECTION DE LA CITE BNETD ET LA CITE SIR EN VENANT DU NOUVEAU GOUDRON",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Spring",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 43 17 24",
+    "07 67 95 88 23",
+    "01 72 07 97 77"
+   ],
+   "address": "RIVIERA 2 SUR LA ROUTE EN ALLANT CHEZ ‘’ALPHA BLONDY’’ DANS L’ALIGNEMENT DU BAR ‘’ELISE VIERA’’",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Bethel- Attoban",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 43 22 83",
+    "07 78 39 76 46",
+    "07 47 11 48 41"
+   ],
+   "address": "RIVIERA ATTOBAN FACE COLLEGE JULES FERRY",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Alif Nouvelle",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "01 51 48 38 84",
+    "07 88 36 07 49"
+   ],
+   "address": "ROUTE DU LYCEE FRANÇAIS",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Philadelphie",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "05 44 62 35 42"
+   ],
+   "address": "COCODY RIVIERA GOLF CARREFOUR SOL BENI A L’ARRET DE BUS N°28 M’POUTO",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Ste Beatrice Des Rosiers",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 47 01 40",
+    "07 49 90 59 90",
+    "05 84 25 63 59 01 50 17 87 85",
+    "07 08 38 50 57"
+   ],
+   "address": "CARREFOUR PALMERAIE / SCI LES ROSIERS FACE QUICK MARKET",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Notre Dame De L’Incarnation",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 59 20 39",
+    "07 08 94 58 53",
+    "07 89 00 98 54"
+   ],
+   "address": "RIVIERA PALMERAIE NON LOIN DU CENTRE DE SANTE A BASE COMMUNAUTAIRE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Ste Clementine",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "01 52 79 93 90",
+    "27 23 49 23 84",
+    "27 22 20 67 19"
+   ],
+   "address": "A L’EXTREME GAUCHE DU NOUVEAU CHU D’ANGRE EN SORTANT PAR L’ENTREE PRINCIPALE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Ste Agnes",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "01 01 13 84 17"
+   ],
+   "address": "RIVIERA BONOUMIN / CARREFOUR TOP PAIN TERMINUS WORO WORO ENTRE LES RESIDENCES EMERAUDE IV ABRI 2000 1 ET LE ROND POINT ADO",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Ebena",
+   "commune": "Cocody",
+   "zone": "Cocody",
+   "phones": [
+    "07 07 79 74 74",
+    "27 22 55 20 19"
+   ],
+   "address": "COCODY NON LOIN DU CHU / COURS SECONDAIRE PROTESTANT- COCODY",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Mermoz",
+   "commune": "Cocody",
+   "zone": "Cocody",
+   "phones": [
+    "27 22 48 74 26"
+   ],
+   "address": "AVENUE JEAN MERMOZ / A L'ENTREE DE LA CITE SOGEFIHA",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Ste Trinite",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 41 68 88"
+   ],
+   "address": "CARREFOUR BD LATRILLE / ROUTE DE WILLIAMSVILLE / PRES SUPER MARCHE PRIX CHOC / LIGNE BUS 49",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Divine Onction",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 41 62 84"
+   ],
+   "address": "II PLATEAUX RUE J 92 / A 500 M DE SOCOCE VERS LE 12EME ARRDT",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Des Pavillons",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 27 01 17",
+    "07 10 39 41 94",
+    "05 00 17 57 57"
+   ],
+   "address": "COCODY 2 PLATEAUX VALLON, DERRIERE STATION TOTAL RUE DES JARDINS, A COTE DE L’HOTEL LA LICORNE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Sante De Vie",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "05 06 35 93 05",
+    "07 57 49 22 91",
+    "07 47 72 03 04"
+   ],
+   "address": "II PLATEAUX AGHIEN / COMMANDANT SANON PRES DE LA BOULANGERIE TOP PAIN",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Saint Ange Des Amis",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 30 05 72",
+    "07 78 41 52 77",
+    "07 69 35 40 24"
+   ],
+   "address": "ANGRE 7E TRANCHE CARREFOUR BLUETOOTH DANS L’ANCIENTE DE L’ANCIEN BAR BLUETOOTH",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Angre",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "22 42 11 06"
+   ],
+   "address": "57 04 SUR PROLONGEMENT BD LATRILLE / ENTREE QUARTIER ANGRE / BUS 81 & 82",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Ave Maria",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 54 72 84",
+    "05 76 32 78 60",
+    "01 43 69 14 89"
+   ],
+   "address": "COCODY ANGRE 8EME TRANCHE, CITE BCEAO NON LOIN DU CARREFOUR DU SUPERMARCHE SICOMEX",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Ste Marthe",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 42 33 87",
+    "07 07 77 20 00",
+    "07 07 73 99 78"
+   ],
+   "address": "ANGRE BD LATRILLE CARREFOUR STATION PETRO IVOIRE / TERMINUS BUS 81& 82",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Fandasso",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 24 89 07",
+    "01 41 17 13 09"
+   ],
+   "address": "ANGRE CITE FANDASSO",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Mere Maria",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 30 04 61",
+    "05 84 81 01 25",
+    "07 12 97 19 94"
+   ],
+   "address": "ANGRE BESSIKOI CARREFOUR DE LA CITE ORIBAT FRATERNITE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Abya",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 28 62 36",
+    "01 01 01 23 32"
+   ],
+   "address": "KOUMASSI REMBLAIS RUE DU CANAL FACE STATION PETROCI",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Boulevard Du Cameroun",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 36 34 47",
+    "07 47 15 66 61"
+   ],
+   "address": "KOUMASSI REMBLAIS LIGNE 11 / ENTRE LES CARREFOURS COLOMBE ET 3 AMPOULES",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Des Lacs (Grande)",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 28 56 24",
+    "07 07 59 14 97"
+   ],
+   "address": "KOUMASSI BOULEVARD DU 7 DECEMBRE EN FACE DU FOYER DES JEUNES - PRES DE L’EGLISE ST ETIENNE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Du Campement",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 36 18 91",
+    "01 02 73 75 07"
+   ],
+   "address": "KOUMASSI NORD-EST / FACE RESIDENCES AGOUTIS / CARREFOUR CAMPEMENT",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie St Lucien",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 52 77 57",
+    "07 59 06 40 11"
+   ],
+   "address": "KOUMASSI SICOGI III / FACE DEPOT SOTRA / DERNIER ARRET BUS 25",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Sainte Pierre D’Angle",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 22 46 19 70",
+    "07 05 77 39 07"
+   ],
+   "address": "KOUMASSI QUARTIER INCH’ALLAH / RUE DES SCIENCES, AU RDC DE L’IMMEUBLE ‘’LA LUNE’’",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Mahandiana",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "27 21 26 21 62",
+    "07 57 04 86 36"
+   ],
+   "address": "MARCORY SICOGI / ZONE DE L’EGLISE STE BERNADETTE / DERRIERE LE MARCHE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Des Hibiscus (Nouvelle)",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "07 58 09 48 02",
+    "27 21 26 31 66"
+   ],
+   "address": "MARCORY DERRIERE L’HOPITAL GENERAL",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie De La Vie (Nouvelle)",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "27 21 28 18 68",
+    "07 57 10 78 65"
+   ],
+   "address": "MARCORY RESIDENTIEL BD ACHALME IMMEUBLE TERANGA",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Misericorde",
+   "commune": "Marcory",
+   "zone": "Anoumabo",
+   "phones": [
+    "27 21 26 27 97"
+   ],
+   "address": "MARCORY ANOUMABA VERS ARTCI / AU NIVEAU DE L’INSTITUT FROEBEL",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Elite",
+   "commune": "Marcory",
+   "zone": "Marcory Sud",
+   "phones": [
+    "27 21 25 01 84"
+   ],
+   "address": "BD GISCARD D'ESTAING PRES DE COTE D’IVOIRE TELECOM",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie St Joseph",
+   "commune": "Marcory",
+   "zone": "Marcory Sud",
+   "phones": [
+    "27 21 24 45 20"
+   ],
+   "address": "CARREFOUR PAUL LANGEVIN ET BD DU 6 DECEMBRE FACE RESTAURANT \"LE SULTAN\"",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Du Palais De Justice",
+   "commune": "Plateau",
+   "zone": "Plateau",
+   "phones": [
+    "07 88 62 65 58"
+   ],
+   "address": "55, BD CLOZEL / FACE PALAIS DE JUSTICE / PRES DE LA RECETTE MUNICIPALE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie De Port-Bouet",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "27 21 27 89 17",
+    "01 40 77 08 68"
+   ],
+   "address": "PRES DU CENTRE PILOTE DES JEUNES DE PORT BOUET",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie De L'Ocean",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "27 21 27 78 48"
+   ],
+   "address": "ANGLE AV. PACIFIQUE & RUE DES ESPADONS PROLONGEMENT DE LA BOULANGERIE BOE ET DU CEG / PORT BOUET",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie St Ambroise",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "25 21 00 62 75",
+    "05 66 01 99 99"
+   ],
+   "address": "PORT BOUET SOGEFIHA FACE AU STADE SENI FOFANA",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Epiphanie",
+   "commune": "Port-Bouët",
+   "zone": "Vridi",
+   "phones": [
+    "27 21 27 00 23"
+   ],
+   "address": "VRIDI CITE FACE SALLE POLYVALENTE / GENDARMERIE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Des Plages",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "07 58 17 15 97",
+    "01 03 16 37 57"
+   ],
+   "address": "PORT BOUET ADJOUFFOU / ROUTE DE BASSAM",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Chatelet",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "07 67 97 04 67",
+    "05 01 56 99 80",
+    "07 77 39 66 30",
+    "05 06 17 13 28"
+   ],
+   "address": "PORT-BOUET GONZAGUE TERRE ROUGE IMMEUBLE COLONEL",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Koffi Kra",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "07 58 00 73 24",
+    "07 48 64 68 36"
+   ],
+   "address": "GONZAG / CARREFOUR USINE I2T / ENTRE BOULANGERIE / GLACIER AMORE / 200M DE LA VOIE EXPRESS ABIDJAN GRAND-BASSAM",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie La Grace (Nouvelle)",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "01 01 62 83 29",
+    "27 21 52 27 47"
+   ],
+   "address": "RUE 12 AVENUE 14",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Du Levant",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "27 21 52 89 53",
+    "07 06 99 19 91"
+   ],
+   "address": "TREICHVILLE AVENUE 19 RUE 13 / DERRIERE CHAWARMA TALAAT",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Ste Adele",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "27 21 25 47 00",
+    "05 84 04 44 46"
+   ],
+   "address": "TREICHVILLE FACADE ARRIERE DU MARCHE DE BELLEVILLE / COTE FRIPERIE NON LOIN DU SUPER MARCHE BONPRIX – PONT VOLTAIRE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Notre Dame Des Victoires",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 57 27 04 45",
+    "07 78 97 32 75"
+   ],
+   "address": "ATTECOUBE MOSSIKRO / A 200 M DU CARREFOUR LOCODJORO EN ALLANT VERS TOITS-ROUGES",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie St Etienne (Nouvelle)",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 01 13 24 13",
+    "07 69 50 19 69"
+   ],
+   "address": "ATTECOUBE / ABOBODOUME CARREFOUR PINASSES EN FACE DE LA GARE LAGUNAIRE AQUALINES",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie De La Mairie",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 52 43 06",
+    "05 05 63 36 43"
+   ],
+   "address": "YOPOUGON QUARTIER SELMER / 200 DE LA MAIRIE / FACE MAQUIS TANTIE MARGOT LIGNE BUS 30",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie St Ange Emmanuel",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 48 61 79",
+    "01 01 07 48 53",
+    "05 65 76 10 27"
+   ],
+   "address": "YOPOUGON ATTIE TERMINUS BUS 47 ENTRE LE SUPERMARCHE SUPECO ET LA MOSQUEE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Zone Micao",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 52 28 22 81",
+    "01 52 10 32 60",
+    "01 52 10 32 59"
+   ],
+   "address": "YOPOUGON ZONE INDUSTRIELLE / QUARTIER MICAO CITE HKB",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Carrefour Ghandi",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 52 74 43",
+    "01 40 95 40 69"
+   ],
+   "address": "YOPOUGON QUARTIER KOWEIT / CARREFOUR GANDHI PRES GROUPE SCOLAIRE GANDHI",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Anador",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 09 59 02 14",
+    "01 01 35 08 36"
+   ],
+   "address": "YOPOUGON MAROC AU NIVEAU DU CARREFOUR ANADOR / FACE MAQUIS « O BAOULE »",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Sacre Coeur",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 01 44 45 13",
+    "07 57 04 99 90"
+   ],
+   "address": "YOPOUGON NOUVEAU QUARTIER / ZONE DE LA POSTE PRES DU TOP PAIN",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Nankoko",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 45 24 80"
+   ],
+   "address": "YOPOUGON CAMP MILITAIRE ENTRE SAPEURS POMPIERS ET CNPS",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie De Sion",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 59 97 73 72",
+    "01 02 73 33 34"
+   ],
+   "address": "YOPOUGON QUARTIER SIDECI TERMINUS 42 A 100 M D’IGES",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Lea",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 46 02 15",
+    "07 48 20 27 86"
+   ],
+   "address": "NIANGON CARREFOUR CORLAY (EX TEXACO) A COTE MAIRIE ANNEXE EN FACE DE LA POSTE BUS 44 -27 -39",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Esperance",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 46 94 23"
+   ],
+   "address": "NIANGON SUD A DROITE / CARREFOUR LOKOA / ROUTE ACADEMY DE LA MER TERMINUS BUS 39",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie St Joseph Academie",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 45 56 97",
+    "07 77 98 32 31",
+    "07 07 89 12 66"
+   ],
+   "address": "YOPOUGON ACADEMIE DES MERS A 50 M AVANT L’ECOLE ACADEMIE DES MERS",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Du Nouveau Marche De Port-Bouet Ii (Ex Valors)",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "05 86 79 60 39"
+   ],
+   "address": "YOPOUGON FACE DU NOUVEAU MARCHE DE PORT BOUET II",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Ananeraie",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 50 87 32",
+    "07 48 82 56 06",
+    "01 41 43 61 89"
+   ],
+   "address": "ANCIENNE ROUTE DE DABOU / CARREFOUR OASIS / PRES DE LA MOSQUEE ANANERAIE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Du Cenacle",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 52 23 23",
+    "07 09 76 67 67",
+    "01 02 56 55 80",
+    "06 06 19 15 44"
+   ],
+   "address": "ZONE CHU / 3EME PONT / A 100 M DE LA CITE POLICIERE EN CONSTRUCTION FACE STATION PETROIVOIRE",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie D'Andokoi",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 50 95 02",
+    "01 01 47 51 83"
+   ],
+   "address": "YOPOUGON ANDOKOI 1ER PONT A DROITE / ENTRE CENTRE IVOIRE COUTURE ET COLLEGE MODERNE (EX CEG)",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Du 16eme (Grde)",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 79 44 55 03",
+    "27 24 38 17 60"
+   ],
+   "address": "YOPOUGON SICOGI",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Du Millionnaire",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 01 99 94 09",
+    "05 45 45 50 35"
+   ],
+   "address": "YOPOUGON QUARTIER MILLIONNAIRE / SUR LA VOIE DE L’INSTITUT DES AVEUGLES",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Amelane",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 23 78 35",
+    "05 95 96 14 38"
+   ],
+   "address": "YOPOUGON MAROC CARREFOUR TIKEN JAH, RUE S424, PRES DE L'ECOLE ADJELEBA.",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie Mariama D’Allokoi",
+   "commune": "Yopougon",
+   "zone": "Allokoi PK 23",
+   "phones": [
+    "07 98 69 13 55",
+    "05 74 69 22 25"
+   ],
+   "address": "AUTOROUTE DU NORD FACE A LA NOUVELLE ZONE INDUSTRIELLE DE YOPOUGON",
+   "weekStart": "2026-10-10"
+  },
+  {
+   "name": "Pharmacie B.S.A",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 77 81 19 23",
+    "07 77 74 70 21"
+   ],
+   "address": "ABOBO ANOKOUA KOUTE SUR L’AXE ABOBO ANYAMA PRES DE LA CIE ET DE LA NOUVELLE GARE INTERNATIONALE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie De La Me (Nouvelle)",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "27 24 38 38 88",
+    "07 07 91 19 99",
+    "01 02 92 84 63"
+   ],
+   "address": "ABOBO GARE GRAND MARCHE ENTRE LA MAIRIE ET LA GENDARMERIE, VOIE EXPRESS D’ANYAMA",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Firdaous",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 14 01 62 59"
+   ],
+   "address": "ABOBO ANADOR EN FACE DE COCO SERVICE / AVANT LA STATION OLA",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Matene (Nouvelle)",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "25 23 01 20 34",
+    "01 03 26 08 50",
+    "07 58 60 90 27"
+   ],
+   "address": "ABOBO AVOCATIER / ENTRE LA DGI ET LA CIE / ABOBO NORD A 400 M DU CAMP COMMANDO",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie N’Gohesse",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 09 84 14 71",
+    "07 49 50 68 96",
+    "05 05 00 27 83"
+   ],
+   "address": "PLAQUE I / ENTRE LE FOYER FEMININ ET LE MARCHE DE NUIT",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Rond Point Samake (Ex Manzan)",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "01 01 01 66 51",
+    "07 09 86 70 74",
+    "07 79 44 54 32"
+   ],
+   "address": "ABOBO CARREFOUR SAMANKE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie La Paix",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "25 24 00 21 29"
+   ],
+   "address": "ABOBO COCOTERAIE / CARREFOUR TOTAL DOKUI A GAUCHE EN VENANT DU ZOO / EN FACE DU GROUPE SCOLAIRE NANTI",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Notre Dame De Fatima",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 07 77 21 49",
+    "01 02 86 89 34"
+   ],
+   "address": "ABOBO PLATEAU DOKUI / SUR VOIE MOBIL-ANGRE / FACE PAROISSE STE MONIQUE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Biabou Mosquee",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "01 71 51 40 85",
+    "05 65 12 33 50"
+   ],
+   "address": "ABOBO BIABOU MORONOU / ROUTE D’ALEPE A COTE DE LA MOSQUEE COSIM",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Ems Sante",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "01 72 53 40 40",
+    "27 23 55 09 26"
+   ],
+   "address": "ABOBO AKEIKOI QUARTIER COLATIER DANS LA ZONE DE L’HOPITAL HOUPHOUET BOIGNY",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie De L’Antenne",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "05 95 20 18 69"
+   ],
+   "address": "EN FACE DU 21 EME ARRONDISSEMENT ABOBO DERRIERE RAIL",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Sainte Anne Abobo Baoule",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "01 52 35 82 30",
+    "05 07 65 53 10"
+   ],
+   "address": "ABOBO BAOULE CARREFOUR POWER NON LOIN DU GROUPE SCOLAIRE AKE LOBA",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Milie Hevie",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "27 24 52 67 38",
+    "07 78 98 35 52",
+    "05 64 71 96 91"
+   ],
+   "address": "ROUTE D’ANYAMA / PK 18 / TERMINUS BUS 76",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Olympique",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "01 02 27 56 13",
+    "07 07 89 99 44"
+   ],
+   "address": "ABOBO NDOTRE A 300 M DU CARREFOUR NDOTRE ROUTE DE YOPOUGON",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Esperance",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 78 18 18 59",
+    "27 24 52 95 01"
+   ],
+   "address": "PK 18 AGOUETO CARREFOUR CMA",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie N’Dotre Palmeraie 2",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "05 55 47 53 55",
+    "01 02 13 93 96"
+   ],
+   "address": "ABOBO N’DOTRE DERRIERE LE GROUPE SCOLAIRE GRACE JEANNE NON LOIN DE LA NOUVELLE FORMATION SANITAIRE EN CONSTRUCTION",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Concorde Pk 18",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "27 24 33 23 87",
+    "07 79 76 04 28",
+    "05 74 13 37 22"
+   ],
+   "address": "ABOBO PK18 EN FACE DE LA CITE SICOGI CONCORDE 2 EN ALLANT A BOIS SEC",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Carrefour Kobakro",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 12 38 68 31"
+   ],
+   "address": "CARREFOUR KOBAKRO / ROUTE EBIMPE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Du Marche D’Anyama",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "27 23 55 82 30",
+    "05 06 24 63 65"
+   ],
+   "address": "",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Meydeba",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "27 23 55 62 44",
+    "01 01 05 26 44",
+    "07 89 95 00 90"
+   ],
+   "address": "ANYAMA EN FACE DU CARREFOUR CISSE (CARREFOUR POLICIER) A COTE DE BONI AUTO ECOLE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Du Carrefour Ancienne Gendarmerie",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "27 22 55 64 26"
+   ],
+   "address": "BATIMENT ANCIENNE GENDARMERIE ENTRE USINE UNICAFE ET LA MORGUE D’ANYAMA",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie D’Alepe",
+   "commune": "Abobo",
+   "zone": "Alépé / Montezo / Brofodoumé",
+   "phones": [
+    "07 09 86 33 83"
+   ],
+   "address": "",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie D’Attecoube",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 38 07 74",
+    "01 01 46 84 85"
+   ],
+   "address": "GRAND CARREFOUR D’ATTECOUBE FACE FEUX TRICOLORES / ENTREE BUS 04",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Du Forum",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 38 13 64",
+    "27 20 38 13 86"
+   ],
+   "address": "A L’INTERIEUR DU FORUM DES MARCHES D’ADJAME",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Des Gares",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 26 24"
+   ],
+   "address": "BD NANGUI ABROGOUA / ENTRE LA RAN ET CI-TELCOM",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie De L’Espoir (Nouvelle)",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 39 08 31",
+    "07 07 88 65 75"
+   ],
+   "address": "ADJAME 220 LGTS RUE PASSANT DEVANT EDIPRESSE ET IMST FACE CITE DE L’ENFANCE CROIX ROUGE 200 M MARCHE GOURO DERRIERE LA MATERNITE THERESE HOUPHOUET BOIGNY",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Kana",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "05 06 23 90 96",
+    "07 57 14 63 09"
+   ],
+   "address": "ADJAME HABITAT EXTENSION PRES DU PETIT MARCHE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Des 220 Logements (Nouvelle)",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 58 26"
+   ],
+   "address": "AVENUE GENERAL DE GAULLE / FACE STATION TEXACO",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Adjame Sante (Nouvelle)",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "25 20 00 11 26",
+    "07 58 09 47 01"
+   ],
+   "address": "BD NANGUI ABROGOUA ENTRE LA MAIRE ET L’INSTITUT DE SANTE PUBLIQUE ( INSP)",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Marie Therese D’Adjame Sarl.U.",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "07 89 08 44 89"
+   ],
+   "address": "ADJAME PROLONGEMENT HOTEL BANFORA DERRIERE FRATERNITE MATIN NON LOIN DE LA MATERNITE MARIE THERESE HOUPHOUET BOIGNY",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Montana",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "07 07 36 57 30"
+   ],
+   "address": "ATTECOUBE VERS TERMINUS BUS 09 / FACE ECOLE FAIDHERBE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Rehoboth",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "01 01 03 06 29"
+   ],
+   "address": "ATTECOUBE QUARTIER CISCOM PRES DE LA MATERNITE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Christ Stella",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "01 71 56 18 17",
+    "27 20 28 62 96"
+   ],
+   "address": "CITE FAIRMOND ATTECOUBE APRES NOUVELLE GENDARMERIE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie De Williamsville",
+   "commune": "Adjamé",
+   "zone": "Williamsville",
+   "phones": [
+    "27 20 37 03 45",
+    "07 09 00 38 91"
+   ],
+   "address": "FACE MOSQUEE ET MARCHE DE WILLIAMSVILLE / PRES DE LA SGBCI",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie St Uriel",
+   "commune": "Adjamé",
+   "zone": "Williamsville",
+   "phones": [
+    "07 48 83 10 66",
+    "01 02 29 72 72"
+   ],
+   "address": "CARREFOUR DE LA RESIDENCE PAILLET EXTENSION (A L’ENTREE) ROUTE DU ZOO-WILLIAMSVILLE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Nissi (Nouvelle)",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "27 22 40 19 04",
+    "07 87 31 66 48",
+    "07 58 33 88 48"
+   ],
+   "address": "CITE FEH KESSE SUR LA NOUVELLE VOIE GOUDRONNEE / 300 M APRES L’ECOLE MATERNELLE LA PRUNELLE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Panacea",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "07 11 84 83 45",
+    "05 46 53 95 95"
+   ],
+   "address": "BINGERVILLE BLVD DOMINIQUE OUATTARA APRES CITE LES FOUGERES A COTE DU SUPERMARCHE SMART BUY",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Notre Dame De La Nativite",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "21 21 80 51 85"
+   ],
+   "address": "AKOUAI SANTE A 100 M DU CARREFOUR CIE SUR LA ROUTE D’AKANDJE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie De Gbagba (Gde)",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "27 24 38 10 74",
+    "07 87 73 89 84",
+    "01 53 05 39 54"
+   ],
+   "address": "GBAGBA PETIT PARIS / FACE EGLISE PRESBYTERIENNE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Saints Andre Et Marthe",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "27 24 31 60 50",
+    "07 00 77 80 16"
+   ],
+   "address": "ADJAME-BINGERVILLE / FACE COMPLEXE SPORTIF A 100 M DE SOCOCE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Villeneuve",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "21 50 03 97 36",
+    "01 00 51 37 37",
+    "07 13 13 50"
+   ],
+   "address": "21. BINGERVILLE CARREFOUR ANAN A COTE DE LA STATION SHELL",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Amaryllis",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "01 41 17 82 92",
+    "27 24 30 86 08"
+   ],
+   "address": "BINGERVILLE DERRIERE LE JARDIN BOTANIQUE. CITES SPIAC, OPES 1, S 3 I, GARE DE TAXI",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Akandje",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "01 72 75 01 01",
+    "05 06 39 16 55",
+    "07 00 77 96 70"
+   ],
+   "address": "BINGERVILLE AKANDJE 2 EN FACE DU MARCHE NON LOIN DES SOCIETES PROMOTIONS PERFORMERS",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Idureil",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "05 55 74 06 18",
+    "07 49 37 95 73"
+   ],
+   "address": "BINGERVILLE KOFFIKRO CARREFOUR BASSAMOISE NON LOIN DE COTE D’IVOIRE ENERGIE / MARKET",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Du Futur",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 47 41 57",
+    "07 77 33 79 02",
+    "01 43 33 99 75"
+   ],
+   "address": "BD MITTERRAND / IMMEUBLE MARIAM / A COTE SOCOPRIX RIVIERA PALMERAIE TRIANGLE ZONE DES IMPOTS",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie St Georges D’Akouedo",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 47 22 38"
+   ],
+   "address": "RIVIERA III APRES BARRAGE / TOUT DROIT AUTOROUTE DE BINGERVILLE / QUARTIER GENIE 2000 1ER CARREFOUR",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Les Hortensias",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 26 75 88",
+    "07 49 49 49 33"
+   ],
+   "address": "RIVIERA AKOUEDO EXTENSION FACE A LA CITE ATCI, ANCIENNE ROUTE DE BINGERVILLE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Eau Vive",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 47 34 45",
+    "07 58 03 58 00"
+   ],
+   "address": "ROUTE ABATTA / CARREFOUR SUPERMARCHE AB CENTER",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Les Laureats",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "05 84 43 15 15"
+   ],
+   "address": "RIVIERA ABATTA / AU REZ DE CHAUSSEE DE L’IMMEUBLE SORANA, A 50M DE L’ECOLE JULES VERNE, PRES DE LA STATION SHELL",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie La Benediction",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 30 42 40",
+    "01 61 06 61 00"
+   ],
+   "address": "ZONE DE LA CITE SIR / EN VENANT DU CHU TOURNER A GAUCHE AUX FEUX TRICOLORES / EN VENANT DU CARREFOUR NOUVEAU GOUDRON ALLER TOUT DROIT AUX FEUX TRICOLORES.",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Ephrata",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "05 75 37 94 07",
+    "07 77 36 90 10"
+   ],
+   "address": "PROLONGEMENT MISSION EPHRATA RIVIERA CARREFOUR / ABATTA A GAUCHE SUR LA ROUTE DE LA CITE SIR",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie De La Riviera",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "07 58 17 62 14"
+   ],
+   "address": "CARREFOUR RIVIERA II",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Dunia (Nouvelle)",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 24 61 59",
+    "07 79 05 05 05"
+   ],
+   "address": "II PLATEAUX 7EME TRANCHE / ROUTE D’ATTOBAN / 50 M COMMISSARIAT 30EME ARRONDISSEMENT",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Ste Famille",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 47 76 76",
+    "07 07 41 38 58"
+   ],
+   "address": "RIVIERA III ALLABRA / PAR LE BD MITTERRAND / FACE A CAP NORD",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Riviera M’Badon",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 24 31 67 12",
+    "07 59 37 20 39"
+   ],
+   "address": "RIVIERA M’BADON A COTE DE L’AMBASSADE DE CHINE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Ste Marie Des Beatitudes",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "07 12 18 47 91",
+    "01 71 20 67 21",
+    "05 05 00 09 52"
+   ],
+   "address": "RIVIERA PALMERAIE / SCI LES ROSIERS 1ER PROGRAMME EN FACE DE LA BARRIERE 6",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie St Raphael Archange",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 51 25 75",
+    "01 40 34 08 94",
+    "07 12 66 85 74"
+   ],
+   "address": "RIVIERA PALMERAIE / SITUE ENTRE LE SUPERMARCHE CDCI ET L’ECOLE MACI-CANADA",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Val De Grace",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "07 03 81 21 81",
+    "01 03 87 15 15",
+    "27 22 49 93 44"
+   ],
+   "address": "RIVIERA PALMERAIE / ROUTE DE L’HOTEL BELLECOTE A 200 M DU COLLEGE LE FIGUIER",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Val D’Oise",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 21 76 06 45",
+    "07 07 00 66 66"
+   ],
+   "address": "RIVIERA PALMERAIE DANS LE CENTRE COMMERCIAL DE KOKOH MALL A 400 M DU NOUVEAU CHU D’ANGRE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Sts Come Et Damien",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "07 79 44 54 67",
+    "07 58 09 47 56"
+   ],
+   "address": "RIVIERA BONOUMIN OPERATION LAURIER 6",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Charisma",
+   "commune": "Cocody",
+   "zone": "Cocody",
+   "phones": [
+    "01 01 83 03 09",
+    "21 23 80 31 77"
+   ],
+   "address": "CITE DES ARTS / ENTRE L’ECOLE DE GENDARMERIE ET L’INSAAC",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Malika",
+   "commune": "Cocody",
+   "zone": "Cocody",
+   "phones": [
+    "27 22 48 69 20",
+    "07 00 77 74 12"
+   ],
+   "address": "COCODY BD France / IMMEUBLE NSIA A COTE DE LA MAISON DU PDCI RDA",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Emeraude",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 21 57 28 33",
+    "01 53 20 42 67"
+   ],
+   "address": "DERRIERE LA STATION TOTAL SOCOCE II PLATEAUX EN FACE DE LA CLINIQUE LE ROCHER",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Ste Cecile",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 42 63 35",
+    "27 22 54 17 49",
+    "07 03 93 83 97"
+   ],
+   "address": "COCODY II PLATEAUX RUE DES JARDINS AU NIVEAU DU CENTRE PAROISSIAL STE CECILE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie St Gil",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 41 94 10",
+    "27 22 41 15 42"
+   ],
+   "address": "II PLATEAUX RUE DES JARDINS / FACE STATION CORLAY AVANT L’ECHANGEUR / VERS L’ECOLE DE POLICE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Renaissance",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 33 77 80 22"
+   ],
+   "address": "COCODY II PLATEAUX / COMMANDANT SANON JUSTE DERRIERE APRES ECOLE ITS II PLATEAUX",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Des Nations",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 42 23 00",
+    "07 58 09 47 54",
+    "07 57 11 74 37"
+   ],
+   "address": "ANGRE TRANCHE / ZONE DU 22EME ARRONDISSEMENT ENTRE LA SODECI ET LA PAROISSE ST AMBROISE MA VIGNE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Des Allees",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 42 14 58",
+    "07 77 37 44 28"
+   ],
+   "address": "ANGRE BD LATRILLE / 200 M APRES PETRO-IVOIRE / CARREFOUR CAFEIERS 2 STARS 6 / NON LOIN DES ETABLISSEMENTS COUSTEAU",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Hermes",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 28 70 57",
+    "07 69 45 81 33",
+    "27 22 50 10 32"
+   ],
+   "address": "II PLATEAUX ANGRE 9EME TRANCHE PRES DE LA CNPS ENTREE CITE STAR 12",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie 8ème Tranche",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 52 34 90",
+    "07 48 20 90 78"
+   ],
+   "address": "CAFEIERS 6 / APRES LA DJIBI / ROUTE 9EME TRANCHE / FACE CITE BCEAO",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie De La Djibi",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 52 23 76"
+   ],
+   "address": "3EME RUE A GAUCHE / APRES TERMINUS BUS 81 / 82 / DANS LE CENTRE COMMERCIAL DE LA DJIBI",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Nord Sud",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "07 11 11 11 55",
+    "27 22 27 15 75"
+   ],
+   "address": "II PLATEAUX ANGRE CHATEAU / CARREFOUR DES PRETRES / 7EME",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie De La Bagoe",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 28 64 14"
+   ],
+   "address": "KOUMASSI REMBLAIS - BD DU CAMEROUN / CARREFOUR STATION MOBIL ET SODECI MARCORY / FACE CENTRE MEDICAL LIRING",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Fanny",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 36 09 07"
+   ],
+   "address": "QUARTIER AKLOMIABLA APRES LES RESIDENCES AGOUTIS / CARREFOUR DU LYCEE MUNICIPAL / TERMINUS BUS 05 ET 32",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Inchallah",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 36 47 01",
+    "01 01 53 99 99"
+   ],
+   "address": "KOUMASSI REMBLAIS PRES DU CARREFOUR SANS FIL A 50 M DU GROUPE SCOLAIRE ENTENTE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie M’Pike (Grande)",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "05 05 70 54 81",
+    "07 07 83 75 87"
+   ],
+   "address": "QUARTIER MAIRIE / DERRIERE L’ANCIENNE MAIRIE DE KOUMASSI (DISTRICT ANNEXE)",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie De Prodomo",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 28 83 43"
+   ],
+   "address": "BD CAMEROUN KOUMASSI PRODOMO / CARREFOUR SOPIM PRODOMO / APRES TERRAIN INCH'ALLAH",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie St Georges",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 36 03 75"
+   ],
+   "address": "76 KOUMASSI SICOGI PRES DU CAMP COMMANDO",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie De L'Amitie",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "27 21 39 83 81",
+    "07 77 30 80 32"
+   ],
+   "address": "MARCORY NOUVEAU MARCHE / BD DU CAMEROUN / BUS N° 05",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Ebathe",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "27 21 56 77 15"
+   ],
+   "address": "AVENUE DE LA COTE D’IVOIRE / NON LOIN DE LA PMI DE MARCORY",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie De La Paix",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "27 21 26 30 19",
+    "07 08 01 83 38"
+   ],
+   "address": "BD DE LORAINE / FACE A LA SIB MARCORY ET STATION TEXACO",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Du Pont D’Anoumabo",
+   "commune": "Marcory",
+   "zone": "Anoumabo",
+   "phones": [
+    "27 21 26 15 11",
+    "07 77 83 78 57"
+   ],
+   "address": "SISE A MARCORY ANOUMABO A 50 M APRES LE PONT D’ANOUMABO",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Ste Marie-Majeure",
+   "commune": "Marcory",
+   "zone": "Marcory Sud",
+   "phones": [
+    "01 40 30 69 80",
+    "07 47 76 44 95"
+   ],
+   "address": "MARCORY ZONE 4C / RUE DU CANAL / FACE IMMEUBLE LES ELFES",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Canaan (Nouvelle)",
+   "commune": "Marcory",
+   "zone": "Marcory Sud",
+   "phones": [
+    "27 21 25 96 76",
+    "01 01 03 66 05"
+   ],
+   "address": "ZONE 4 C / 36 RUE PAUL LANGEVIN / A 500 M DE MERCEDES",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Prima (Ex Ste Ruth)",
+   "commune": "Marcory",
+   "zone": "Marcory Sud",
+   "phones": [
+    "27 21 35 35 15",
+    "05 02 49 21 07"
+   ],
+   "address": "CENTRE COMMERCIAL PRIMA",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Du Boulevard Carde",
+   "commune": "Plateau",
+   "zone": "Plateau",
+   "phones": [
+    "25 20 00 37 82",
+    "07 02 93 40 45"
+   ],
+   "address": "FACE CERCLE DES RAILS",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Djigui",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "27 21 27 75 86"
+   ],
+   "address": "FACE NOUVEAU MARCHE 30 M DU COMMISSARIAT / ANGLE AVENUE ATLANTIQUE ET AV. PACIFIQUE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Du Phare (Nouvelle)",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "27 24 32 85 58",
+    "07 58 31 85 31"
+   ],
+   "address": "AVENUE DES CARAIBES PRES DU PHARE / TERMINUS BUS 12",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Wharf Sarl",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "07 57 24 12 56"
+   ],
+   "address": "ROUTE DE L'AEROPORT, ENTREE SIPIM, ENTRE LA SOTRA ET L’ÉGLISE CATHOLIQUE ASCENSION HOPITAL / PRES DE LA GRANDE MOSQUEE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Vridi Palm-Beach",
+   "commune": "Port-Bouët",
+   "zone": "Vridi",
+   "phones": [
+    "27 21 27 52 04",
+    "07 59 06 47 49"
+   ],
+   "address": "VRIDI BD PETIT-BASSAM / SIR / CARREFOUR VRIDI CITE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Route De Bassam",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "25 20 00 26 63",
+    "07 09 61 89 61",
+    "01 02 03 65 99",
+    "07 57 84 93 46"
+   ],
+   "address": "PORT-BOUET JEAN FOLLY / SIS AU SEIN DU NOUVEAU MARCHE ENTRE LA RUE DU MARCHE ET LA RUE MOBIBOIS / VOIE EXPRESS ABIDJAN GRAND BASSAM",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Saint Gilbert (Grande)",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "07 05 99 89 89",
+    "27 35 97 68 78"
+   ],
+   "address": "GONZAGUE TERRE ROUGE 2 A 50 METRES DE LA GARE SOTRA",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie St Michel Archange",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "07 59 52 98 74"
+   ],
+   "address": "PORT-BOUET / IRHO, RUE CARREFOUR MOTARD PRES DE L’EPP HOUPHOUET BOIGNY D’IRHO",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Du Grand Marche",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "27 21 24 00 72"
+   ],
+   "address": "ANGLE RUE 13 / AVENUE 8 PLACE DE L'ANCIEN MARCHE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Roche",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "27 21 53 89 96",
+    "07 10 00 71 71",
+    "01 51 53 66 66"
+   ],
+   "address": "TREICHVILLE AUX FEUX DE LA GARE DE BASSAM / IMMEUBLE ROCHE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Merouane",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "27 21 24 09 29"
+   ],
+   "address": "AVENUE 16 RUE 25 / FACE STATION TOTAL",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Chenain",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 50 13 78",
+    "07 58 49 96 75",
+    "01 60 67 42 45"
+   ],
+   "address": "JERUSALEM / ROUTE ABOBODOUME / 200 M DE L’HOTEL GRAN-MAXIME",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Ste Adele",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 58 84 51 25",
+    "05 44 71 21 31",
+    "01 01 02 67 68"
+   ],
+   "address": "ABOBODOUME SORTIE DU QUAI DES BATEAUX BUS SOTRA ET STL.",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Du Lavage (Nouvelle)",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 13 37 97 76"
+   ],
+   "address": "YOPOUGON SICOGI / PRES DU CARREFOUR LAVAGE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Shalom",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 58 59 79 50"
+   ],
+   "address": "YOPOUGON SOGEFIHA PONT VAGABOND NON LOIN DU TERMINUS DU BUS 47",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Siporex",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 57 49 22 97"
+   ],
+   "address": "PRES DE LA GARE YOPOUGON ANCIENNE ROUTE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Les Oliviers",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 45 09 62",
+    "07 57 49 23 00"
+   ],
+   "address": "1ER PONT FACE STATION SHELL DE L’INSTITUT DES AVEUGLES / ENTRE AGENCE GREEN ET DISCOUNT",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Les Beatitudes",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 02 76 36 60"
+   ],
+   "address": "YOPOUGON NOUVEAU QUARTIER / 1ER ARRET BUS N° 37 / FACE STATION SAPE ET EGLISE WINNER’S CHAPEL / NON LOIN DE L’ESPACE LIBERTE FPI",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Baïty",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 51 77 98",
+    "07 59 55 40 33"
+   ],
+   "address": "YOPOUGON TOIT ROUGE PRES DE LA GENDARMERIE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Chayah Terminus 40",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "25 23 00 16 61",
+    "07 08 82 18 87 01 72 10 06 26"
+   ],
+   "address": "TERMINUS 40 PRES DE LA BIJOUTERIE LEBOUTOU EN FACE DU GLACIER MAXI-K",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Akadjoba",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 40 14 21 45",
+    "05 65 00 84 84",
+    "27 24 45 00 12"
+   ],
+   "address": "CARREFOUR NIANGON SIDECI / NON LOIN DU PALAIS DE JUSTICE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Elkanah",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 50 88 19",
+    "01 41 41 46 96"
+   ],
+   "address": "YOPOUGON CARREFOUR CANAL / FACE IMMEUBLE CANAL A 450 M DE LA STATION PETRO IVOIRE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Theodora",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 01 41 53 27",
+    "07 87 52 53 41"
+   ],
+   "address": "YOPOUGON NIANGON SUD / CARREFOUR A DROITE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Le Jourdain",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 21 76 68 76",
+    "01 40 92 69 63",
+    "07 58 09 46 37"
+   ],
+   "address": "YOPOUGON NIANGON NORD / ROUTE DE LA CITE VERTE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Les Elysees",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 46 84 85",
+    "01 01 35 11 48"
+   ],
+   "address": "YOPOUGON QUARTIER MAROC CITE LES ELYSEES / EN VENANT DE LA COOPEC ANNANERAIE ET CDCI CARREFOUR JEC PROMO / A DROITE",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Du Jubile",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 07 97 18 61",
+    "05 04 81 62 08"
+   ],
+   "address": "YOPOUGON ROUTE DE DABOU FACE MARCHE BAGNON",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Gnimah",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 24 56 17 85",
+    "01 01 88 48 86",
+    "07 58 55 12 63"
+   ],
+   "address": "PORT-BOUET 2 ANCIENNE GARE ENTRE LE CARREFOUR MOSQUEE ET LE CARREFOUR KOUDOUSS",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Marche Locodjro",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 45 00 15",
+    "01 42 84 68 77",
+    "07 77 18 26 87"
+   ],
+   "address": "YOPOUGON TOIT ROUGE / JEAN PAUL II DANS LA ZONE DU GROUPE SCOLAIRE BELLE MARISE ET DU MARCHE LOCODJRO",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Gesco Fourriere (Grande)",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "25 23 00 81 56",
+    "05 00 16 48 48 07 12 46 66 23"
+   ],
+   "address": "YOPOUGON GESCO A 100M DE LA FOURRIERE AU PIED DU NOUVEL ECHANGEUR",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Arbre De Vie",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 07 18 00 18",
+    "21 20 80 93 60"
+   ],
+   "address": "YOPOUGON ANANERAIE ENTRE LE CARREFOUR OASIS ET LE CARREFOUR SORBONNE DANS LE QUARTIER DERRIERE LA CLINIQUE PROMETHEE A 50 M DU TERRAIN ZENITH",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie Vie Divine D’Allokoi",
+   "commune": "Yopougon",
+   "zone": "Allokoi PK 23",
+   "phones": [
+    "07 05 75 76 90",
+    "05 01 19 23 23"
+   ],
+   "address": "AUTOROUTE DU NORD (KM22) EN FACE DE LA NOUVELLE ZONE INDUSTRIELLE DE YOPOUGON",
+   "weekStart": "2026-10-17"
+  },
+  {
+   "name": "Pharmacie La Vierge Du Signe",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 78 68 11 74"
+   ],
+   "address": "ABOBO NGUESSANKOI / DERRIERE LA STATION ORYX",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Servir",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "25 24 01 18 20",
+    "01 01 61 15 49"
+   ],
+   "address": "2EME ROND POINT AUTOROUTE ABOBO GARE PRES DU COLLEGE ST JOSEPH",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Du Rail",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 47 53 25 32"
+   ],
+   "address": "ABOBO SAGBE / DERRIERE RAILS",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Belle Cite",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "05 44 29 29 69"
+   ],
+   "address": "ABOBO QUARTIER BC TERMINUS DES WOROS WOROS",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Route Akeikoi",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 09 86 26 77",
+    "07 09 28 98 94"
+   ],
+   "address": "ABOBO COLATIER SUR LA VOIE MENANT A AKEIKOI",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Miria (Nouvelle)",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 09 84 68 48",
+    "25 21 01 57 38"
+   ],
+   "address": "ABOBO CINECOOL / ENTRE LE ROND POINT DE LA MAIRIE ET LE CARREFOUR SAMAKE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Rahman",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "05 56 46 64 12",
+    "01 01 82 05 31",
+    "07 79 41 51 01"
+   ],
+   "address": "ABOBO AGBEKOI PRES DE L’ECOLE NORD ET DE L’AGEEP",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Kennedy",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "01 41 12 67 67"
+   ],
+   "address": "ENTREE QUARTIER KENNEDY-CLOUETCHA / 400 M DU CARREFOUR SANS MANQUER",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Du Dokui (Gde)",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "01 01 60 84 18"
+   ],
+   "address": "AU DESSUS DU ZOO FACE STATION TOTAL / FACE CIE PLATEAU DOKUI",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Petit Marche Du Dokui",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "27 22 53 38 67",
+    "07 89 76 04 17"
+   ],
+   "address": "ABOBO ENTRE LE PETIT MARCHE DE DOKUI ET LA MOSQUEE SUR LA VOIE MENANT AU COLLEGE MAHOU",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie D’Abobo Baoule",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 47 98 39 21",
+    "01 41 75 70 10"
+   ],
+   "address": "ABOBO BAOULE FACE AU COMMISSARIAT DU 34 EME ARRONDISSEMENT",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Tehoua",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "27 24 39 13 13"
+   ],
+   "address": "AUTOROUTE D'ANYAMA / 500 M APRES GENDARMERIE D'ABOBO SUR LA DROITE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Marie Esther Abobo",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 00 90 09 10",
+    "27 24 52 55 63"
+   ],
+   "address": "ABOBO SUD COCOTERAIE ENTRE LE CHU D’ABOBO ET LE GROUPE SCOLAIRE D’EXCELLENCE CHILDREN OF AFRICA (ANCIEN SITE DE COCO SERVICE ANADOR)",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Residentiel Abobote",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 05 77 17 45",
+    "27 24 57 67 22",
+    "27 24 51 41 28",
+    "07 05 50 50 50"
+   ],
+   "address": "ABOBOTE ENTRE LE CIMETIERE D’ABOBOTE ET LE CARREFOUR SAMAKE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Sogefiha",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "27 24 39 00 51"
+   ],
+   "address": "ENTRE COMMISSARIAT DU 15EME ET STATION MOBIL / BUS 41-08-49",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Safir",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 09 86 26 35",
+    "05 05 83 54 83"
+   ],
+   "address": "PK 18 / ROUTE D’ANYAMA / DERRIERE PONT / PLACE ANCIENNE BOULANGERIE ROUTE N’DOTRE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie N’Dotre",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 77 10 47 14"
+   ],
+   "address": "ABOBO AXE NDOTRE ANYAMA / ENVIRON 600 M CARREFOUR NDOTRE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie St Alexandre",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 59 04 35 42",
+    "01 40 29 69 84"
+   ],
+   "address": "EN ALLANT AU BOIS SEC / A L'ENTREE PRINCIPALE DE LA CITE SICOGI CONCORDE.",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Synovie",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "01 03 91 08 54",
+    "07 98 74 61 89",
+    "27 36 85 75 24"
+   ],
+   "address": "ABOBO N’DOTRE EN FACE MARCHE GOURO",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Elie Faustine",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "05 44 11 26 12",
+    "01 40 30 69 54"
+   ],
+   "address": "ANYAMA N’DOTRE-BLANKRO",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Agnitio",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "01 40 43 10 10",
+    "05 01 07 30 30"
+   ],
+   "address": "ABOBO ANONKOUA KOUTE EXTENSION / A 50 M DU GROUPE SCOLAIRE PARTHENON / AU CARREFOUR ALLO",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie An-Asr",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "27 23 55 98 22",
+    "07 67 48 22 32"
+   ],
+   "address": "",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Eliel",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "27 33 73 73 56",
+    "07 69 74 22 69"
+   ],
+   "address": "ANYAMA QUARTIER RAN FACE A LA GARE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Sante Pour Tous D’Anyama",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "05 05 08 08 19",
+    "07 79 51 31 81"
+   ],
+   "address": "APRES CARREFOUR ANCIENNE GENDARMERIE DERRIERE ECOLE PMFA AU CARREFOUR ADJA MADOUE TOURE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Des Generations De Montezo",
+   "commune": "Abobo",
+   "zone": "Alépé / Montezo / Brofodoumé",
+   "phones": [
+    "07 57 49 38 47",
+    "07 07 40 47 08"
+   ],
+   "address": "",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie De La Grande Mosquee",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "01 03 12 11 91",
+    "05 04 91 25 31",
+    "27 31 95 95 13"
+   ],
+   "address": "BD. WILLIAM JACOB DERRIERE LES RAILS DE LA GRANDE MOSQUEE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Schiba",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "07 58 17 61 68",
+    "01 40 23 59 65"
+   ],
+   "address": "RUE DU DISPENSAIRE ANTITUBERCULEUX / FACE MARCHE GOURO (EX LOCAUX COFRUITEL)",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie St Emmanuel",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 98 27",
+    "01 02 69 19 38"
+   ],
+   "address": "BD GENERAL DE GAULLE / QUARTIER MIRADOR FACE IMMEUBLE SICOGI / 30 M DU CARREFOUR",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie De La Providence",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 55 81",
+    "07 58 09 46 96"
+   ],
+   "address": "PETIT MARCHE DES 220 LGTS / FACE EDIPRESSE / LIGNE BUS N° 14 00 09 75 86 12 83",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Sarah",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 39 03 57"
+   ],
+   "address": "ADJAME 220 LGTS / ROUTE CAMP GENDARMERIE AGBAN / CENTRE COMMERCIAL CARINE N’ COUTURE / FACE QUARTIER CHICANE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Koro",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "01 52 78 27 27"
+   ],
+   "address": "ADJAME QUARTIER MARIE THERESE HOUPHOUET BOIGNY A COTE COLLEGE MONTHERLANT BATIMENT B",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Du Marche (Nouvelle)",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 06 17",
+    "07 58 09 46 95"
+   ],
+   "address": "RUE DES AGOUAS / FACE AU GD MARCHE D'ADJAME",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Mary Du 4e Pont Adjame",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "05 96 62 42 59",
+    "01 72 82 12 12",
+    "27 31 96 94 28"
+   ],
+   "address": "ADJAME BRAMAKOTE, BLVD DE L’OUEST, PRES DE LA STATION SHELL, AXE SEBROKO -ATTECOUBE, FACE ANCIEN PARC AU MOUTON DE BORIBANA PRES ETS SYLLA ET FRERES",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Agoua",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "07 09 31 27 51",
+    "01 40 21 32 73"
+   ],
+   "address": "ATTECOUBE FACE BOULANGERIE BBCO",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Fatima (Nouvelle)",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "01 02 56 10 10",
+    "05 54 89 17 73"
+   ],
+   "address": "ATTECOUBE CARREFOUR DU PONT",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie D'Agban",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "27 20 37 22 30",
+    "27 20 37 21 67"
+   ],
+   "address": "CARREFOUR CITE FAIRMONT / VILLAGE AGBAN\"",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Du Progres",
+   "commune": "Adjamé",
+   "zone": "Williamsville",
+   "phones": [
+    "27 20 37 15 25"
+   ],
+   "address": "FACE EGLISE ST KIZITO",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Christ Marie De Paillet",
+   "commune": "Adjamé",
+   "zone": "Williamsville",
+   "phones": [
+    "27 20 37 40 00",
+    "27 20 27 43 28",
+    "07 57 48 94 43"
+   ],
+   "address": "PAILLET EXTENSION / ENTRE LE CARREFOUR HUMMER ET LA MAISON BLANCHE DES PETITS",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie St Sylvestre",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "27 22 51 96 96",
+    "07 58 17 61 59"
+   ],
+   "address": "CITE PALMA / FACE RESTAURANT COUP DE FREIN",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Motto",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "05 05 10 13 11",
+    "07 09 53 76 88",
+    "27 22 53 62 35"
+   ],
+   "address": "BINGERVILLE, BLVD DOMINIQUE OUATTARA, PRES DE L’HOTEL FREE WORLD, FACE AU QUARTIER PARIS VILLAGE A PROXIMITE DE LA CITE BNEDT",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Les Colombes",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "07 15 97 55 59",
+    "27 24 36 45 62"
+   ],
+   "address": "BINGERVILLE, AV KONAN KOUASSI LAMBERT, NON LOIN DE LA PAROISSE ST MARCEL, AKOUAI-SANTAI.",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Du Marche",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "01 40 50 74 78",
+    "05 04 00 15 26"
+   ],
+   "address": "",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Inaya D’ Adjame Bingerville",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "27 22 56 78 93",
+    "01 03 23 83 56",
+    "05 55 27 72 45"
+   ],
+   "address": "BOULEVARD DOMINIQUE OUATTARA BINGERVILLE PROCHE DE LA PAROISSE STE ANNE D’ADJAME BINGERVILLE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Du Palais De Justice Bingerville",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "27 22 55 79 07",
+    "07 20 20 34 83"
+   ],
+   "address": "BINGERVILLE AV. M’BATTO BOUAKE ROUTE DU PALAIS DE JUSTICE (NANMOUE RESIDENTIEL)",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Ste Marie De La Celle",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "07 02 95 24 31",
+    "01 51 92 25 91"
+   ],
+   "address": "BINGERVILLE DERRIERE EMPT / CITE PROMOGIM OLYMPIQUE (MTNKRO)",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Akandje",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "01 72 75 01 01",
+    "05 06 39 16 55",
+    "07 00 77 96 70"
+   ],
+   "address": "BINGERVILLE AKANDJE 2 EN FACE DU MARCHE NON LOIN DES SOCIETES PROMOTIONS PERFORMERS",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Idureil",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "05 55 74 06 18",
+    "07 49 37 95 73"
+   ],
+   "address": "BINGERVILLE KOFFIKRO CARREFOUR BASSAMOISE NON LOIN DE COTE D’IVOIRE ENERGIE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Boulevard Y4",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "05 75 37 44 15",
+    "01 71 23 65 56"
+   ],
+   "address": "RIVIERA AKOUEDO PALMERAIE / ZONE ATCI ENTRE LES DEUX RONDS POINTS DU NOUVEAU ET ANCIEN CAMP / A 100 METRES DU GARAGE CFA",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Laurier 9",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "07 87 16 73 09",
+    "01 40 38 78 78"
+   ],
+   "address": "A COTE DES GROUPES SCOLAIRES LAURIER 8 ET 9 / ANCIENNE ROUTE DE BINGERVILLE SUR L’AXE ALLANT DU SUPERMARCHHE BON PRIX DE FAYA VERS L’EGLISE WINNERS CHAPEL",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Livie",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 47 48 78",
+    "01 01 83 24 84",
+    "07 49 50 84 78"
+   ],
+   "address": "AKOUEDO VILLAGE ENTRE DISPENSAIRE ET GARE DES WORO WORO / NON LOIN DE LA CITE ATCI",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Cephas",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "07 77 74 58 57",
+    "07 07 69 48 67"
+   ],
+   "address": "ROUTE ABATTA / APRES SICTA QUARTIER ORIBAT",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Catleyas",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 47 07 79"
+   ],
+   "address": "BD MITTERRAND CARREFOUR ABATTA",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie St Martin De Faya",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 55 69 39",
+    "01 03 45 38 88",
+    "07 59 82 21 15"
+   ],
+   "address": "RIVIERA FAYA PROLONGEMENT CLOTURE NOUVEAU CAMP MILITAIRE D’AKOUEDO APRES CITE GENIE 2000",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Keliam",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "07 04 73 04 35"
+   ],
+   "address": "CARREFOUR ABATTA / A GAUCHE ROUTE CITE SIR EN BORDURE DU NOUVEAU GOUDRON",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie St Pierre D'Anono",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "21 22 80 03 74",
+    "27 24 33 75 87",
+    "27 24 56 36 67"
+   ],
+   "address": "COCODY-RIVIERA / ZONE DE LA GARE D’ANONO",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Tera (Nouvelle)",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "07 77 88 74 14",
+    "27 22 42 49 91"
+   ],
+   "address": "II PLATEAUX 7 EME TRANCHE DANS LE CENTRE COMMERCIAL TERA",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Bd Mitterrand",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 47 90 45"
+   ],
+   "address": "ROUTE DE BINGERVILLE / CARREFOUR BONOUMIN KM 9 APRES CARREFOUR STE FAMILLE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Des Cites Synacassi Sarl",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "07 58 14 14 05",
+    "25 22 00 13 15"
+   ],
+   "address": "RIVIERA 3 SYNACASSCI ROUTE DE M’BADON",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Palmeraie Sarl",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 47 91 19"
+   ],
+   "address": "RIVIERA III – ENTRE LES DEUX STATIONS D’ESSENCE ET LE ROND POINT / EN FACE DE L’ESPACE DE JEU SOCOCE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Enica",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 49 33 75",
+    "05 46 47 46 94"
+   ],
+   "address": "CARREFOUR MARCHE DE LA PALMERAIE / DIRECTION CARREFOUR GUIRAUD ET TOUT DROIT FIN GOUDRON",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie St Moise (Gde)",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 49 61 36",
+    "01 02 43 94 10",
+    "07 58 18 81 77"
+   ],
+   "address": "COCODY 9EME TRANCHE ABRI 2000 SUR VOIE PRINCIPALE ENTRE ROND POINT ADO ET CELUI AVANT LA PHCIE HERMES",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Kabod",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "07 01 90 90 90",
+    "21 21 80 05 24"
+   ],
+   "address": "COCODY ANGRE NON LOIN DE L’ENTREE DES URGENCES DU CHU D’ANGRE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie St Jean Paul Ii De Bonoumin",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 28 86 87",
+    "07 79 41 92 76"
+   ],
+   "address": "RIVIERA BONOUMIN 500 M AU NORD D’ABIDJAN MALL APRES CARREFOUR DJEDJE MADY",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Du Lycee Technique",
+   "commune": "Cocody",
+   "zone": "Cocody",
+   "phones": [
+    "27 22 44 60 77",
+    "07 07 03 77 72"
+   ],
+   "address": "ROUTE DU LYCEE TECHNIQUE PRES DE LA CLINIQUE DU GOCI",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Boulevard De France",
+   "commune": "Cocody",
+   "zone": "Cocody",
+   "phones": [
+    "27 22 44 74 08"
+   ],
+   "address": "GD MARCHE DE COCODY / STATION AGIP BUS N° 28 – 74",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Bonne Sante",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 25 60 29",
+    "05 86 57 92 36",
+    "07 68 60 92 05"
+   ],
+   "address": "COCODY 2 PLATEAUX-AGBAN / ROUTE WILLIAMSVILLE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Arc En Ciel",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 41 33 90"
+   ],
+   "address": "20 67 II PLATEAUX RUE DES JARDINS / CARREFOUR COMMISSARIAT 12eme ARRONDT.",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Orchid",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 40 42 75"
+   ],
+   "address": "2 PLATEAUX / BOULEVARD LATRILLE CARREFOUR MACACI",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Les Tulipes",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 42 50 17"
+   ],
+   "address": "II PLATEAUX BD LATRILLE / ESPACE SANTA MARIA / FACE MOSQUEE D’AGHIEN",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie 7eme Tranche",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 23 49 74",
+    "07 08 94 57 25"
+   ],
+   "address": "RUE L 84 / 1ER CARREFOUR A GAUCHE APRES LE JOURNAL NOTRE VOIE EN VENANT D’ATTOBAN OU 1ER CARREFOUR A DROITE APRES LE BAR LES CAFEINES MEME RUE QUE LA NOUVELLE AMBASSADE DE CHINE / PAR LE BD LATRILLE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Star 9 Angre",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "07 14 78 47 18",
+    "07 88 35 99 11",
+    "07 78 96 54 38",
+    "05 00 65 71 71"
+   ],
+   "address": "ANGRE PETRO IVOIRE ENTRE L’EGLISE ST AMBROISE DU JUBILE ET LE COLLEGE VICTOR LOBA",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Notre Dame Du Grand Signe",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 42 64 13",
+    "07 89 12 75 15"
+   ],
+   "address": "COCODY ANGRE AXE 7ème et 8ème TRANCHE APRES LE PONT SORO",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Bellevue",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 50 06 24",
+    "07 79 33 06 11",
+    "07 07 09 95 08"
+   ],
+   "address": "ANGRE 8EME TRANCHE SOLEIL II - CAFEIER 8 / APRES LE TERMINUS 205 ET LA PHCIE LES ARCADES SUR LA VOIE EN PAVE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Esperance (Nouvelle)",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "25 21 01 57 04",
+    "05 46 81 73 55"
+   ],
+   "address": "DERRIERE LE MARCHE ET LA MOSQUEE DE LA DJIBI",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie La Redemption Sarlu",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "07 89 43 63 70",
+    "25 22 01 61 96"
+   ],
+   "address": "ANGRE CHATEAU D’EAU / FIN GOUDRON EN FACE DU TERRAIN MILITAIRE (FPM)",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Du Canal",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 36 27 48"
+   ],
+   "address": "KOUMASSI REMBLAIS ENTRE LE GD CARREFOUR GABI (FEU TRICOLORE) ET CARREFOUR MILLENIUM 80 M DU MAQUIS « LE TAPIS ROUGE » OU A DROITE DU GROUPE SCOLAIRE LA ROCHELLE EN PROVENANCE DE LA STATION MOBIL",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie El Rapha De Zoe Bruno",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 31 93 43",
+    "07 87 93 18 93"
+   ],
+   "address": "KOUMASSI CARREFOUR HOPITAL DE SOWETO",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Iroko (Gde)",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 56 43 53"
+   ],
+   "address": "KOUMASSI REMBLAIS / LIGNE BUS 32 PRES ECOLE BAD 5",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie St Albert",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "01 01 44 43 65"
+   ],
+   "address": "KOUMASSI GD MARCHE / FACE EGLISE METHODISTE CITE DES GRACES",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Ste Foi",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 56 17 40"
+   ],
+   "address": "KOUMASSI TERMINUS BUS 05 / FACE LYCEE MUNICIPAL",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie De Sopim",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 36 69 32"
+   ],
+   "address": "KOUMASSI SOPIM",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Du Petit Marche",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "27 21 26 24 33"
+   ],
+   "address": "RUE DE L'EGLISE STE THERESE EN ALLANT VERS LA PMI MARCORY / 50 M DU MAQUIS \"LE VATICAN\" BUS N° 32",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Tiacoh",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "27 21 26 28 15"
+   ],
+   "address": "CARREFOUR AUTOROUTE & BD DU GABON ANGLE / RUE PIERRE & MARIE CURIE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Tsf Marcory",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "27 21 26 78 12",
+    "01 51 48 75 70",
+    "07 99 70 84 36"
+   ],
+   "address": "AVENUE TSF MARCORY / FACE COMMISSARIAT DU 9ème ARRONDISSEMENT",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Jehova-Jire Sarl-U",
+   "commune": "Marcory",
+   "zone": "Anoumabo",
+   "phones": [
+    "27 21 53 80 53",
+    "01 01 71 98 45",
+    "27 21 26 51 87",
+    "05 54 37 08 18"
+   ],
+   "address": "MARCORY ALLIODAN CITE SETAO",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Du Carrefour",
+   "commune": "Marcory",
+   "zone": "Marcory Sud",
+   "phones": [
+    "27 21 35 11 66"
+   ],
+   "address": "29 70 ANGLE BD GISCARD D'ESTAING RUE CHEVALIER DU CLIEU / ZONE 4 A / FACE BICICI MARCORY",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Pierre & Marie Curie",
+   "commune": "Marcory",
+   "zone": "Marcory Sud",
+   "phones": [
+    "27 21 35 80 30"
+   ],
+   "address": "CENTRE COMMERCIAL FRANCISCO / A COTE DE RENAULT ET SUPER EDEN",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie De Bietry",
+   "commune": "Marcory",
+   "zone": "Marcory Sud",
+   "phones": [
+    "27 21 24 86 89"
+   ],
+   "address": "BD DE MARSEILLE (AVANT WAFOU) / CENTRE COMMERCIAL HOLLIDAY / IMMEUBLE SGBCI",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Aniaman",
+   "commune": "Plateau",
+   "zone": "Plateau",
+   "phones": [
+    "07 49 15 99 99",
+    "07 09 88 16 16",
+    "27 20 32 12 23",
+    "27 20 32 12 22",
+    "27 20 32 12 29"
+   ],
+   "address": "RUE JOSEPH ANOMA / RUE DES BANQUES COTE RUE A. DAUDET / IMMEUBLE ANIAMAN A GAUCHE CARREFOUR DE LA BOURSE REGIONALE DES VALEURS MOBILIERES",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Baltique",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "27 21 27 66 71"
+   ],
+   "address": "FACE A L'ABATTOIR",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Atlantique",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "27 21 27 95 00",
+    "25 21 01 17 80",
+    "07 12 15 00 18",
+    "07 19 26 94 87"
+   ],
+   "address": "SOGEFIHA PRES DU MARCHE DE NUIT",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Malon",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "27 21 27 96 14",
+    "07 68 26 00 40"
+   ],
+   "address": "PORT BOUET QUARTIER",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Des Entreprises",
+   "commune": "Port-Bouët",
+   "zone": "Vridi",
+   "phones": [
+    "27 21 27 17 32"
+   ],
+   "address": "VRIDI ZONE INDUSTRIELLE FACE ANCIEN TOYOTA-PREMOTO SUR VOIE PRINCIPALE 250 M ENVIRON DU TRIPOSTAL",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Belleville",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "07 69 00 75 85",
+    "07 77 82 26 68",
+    "01 51 40 11 86"
+   ],
+   "address": "QUARTIER BELLEVILLE JEAN FOLLY / 100 M CARREFOUR PETIT MARCHE / CARREFOUR LA LOBO.",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Eloma De Gonzag",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "07 58 17 61 48",
+    "05 65 23 48 23",
+    "07 49 03 25 42"
+   ],
+   "address": "PORT BOUET GONZAGUEVILLE / EN FACE DU TERRAIN DE GONZAGUEVILLE / A 150 M DU CARREFOUR TERRE ROUGE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Rue Abraham",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "01 02 54 32 00",
+    "07 67 70 70 57",
+    "07 48 73 26 74"
+   ],
+   "address": "PORT BOUET GONZAGUEVILLE COCOTERAIE RUE ABRAHAM PRES DU MARCHE FRANÇAIS A 150 M DE LA VOIE EXPRESS DE GRAND BASSAM",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Myriam De Biafra",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "27 21 35 76 84",
+    "01 02 29 40 50",
+    "07 68 22 12 19"
+   ],
+   "address": "QUARTIER BIAFRA / AU RDC IMMEUBLE ST LAZARE A ANGLE AVENUE 2, RUE 29 / BUS 74 - 11 – 04",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Belleville",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "27 21 25 09 32",
+    "07 01 57 23 61"
+   ],
+   "address": "ARRAS III AV. 27 FACE AU MAQUIS NOTRE DAME APRES CENTRE DE SANTE BELLEVILLE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Quartier Appolo",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "07 07 30 87 77"
+   ],
+   "address": "AVENUE 12 RUE 5 A PROXIMITE DU RESTAURANT ABOUSSOUAN",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Awale (Nouvelle)",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 02 61 15 16"
+   ],
+   "address": "YOPOUGON FACE PETIT MARCHE SELMER",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Santa Caterina",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 02 41 22 41",
+    "07 77 67 79 80"
+   ],
+   "address": "YOPOUGON SICOGI PROLONGEMENT PATISSERIE DU MARCHE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Phenix",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 46 19 11",
+    "07 57 49 23 13"
+   ],
+   "address": "BANCO II / NOUVELLE ROUTE PORT BOUET II / GARE BDF",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Segai",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 01 28 15 59",
+    "07 58 48 74 33"
+   ],
+   "address": "YOPOUGON WASSAKARA / FACE AU MARCHE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Carrefour Pompier",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 03 05 78 65",
+    "07 78 24 60 88",
+    "05 76 76 60 20"
+   ],
+   "address": "YOPOUGON TOITS ROUGE / FACE SAPEURS POMPIERS-BAE A COTE DE LA STATION TOTAL ET KING CASH ET LA GRANDE ECOLE INSTITUT DE FORMATION SAINTE MARIE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Christ Roi (Grande)",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 89 91 28 06",
+    "07 79 79 18 90"
+   ],
+   "address": "TOIT ROUGE / CARREFOUR JEAN PAUL II",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie De L’Antenne",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "05 55 75 83 25",
+    "27 22 45 17 36",
+    "07 59 04 35 22"
+   ],
+   "address": "YOPOUGON LEM 2 / FACE CITELCO ET MAISON DES JEUNES",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Sideci Extension",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 51 23 34"
+   ],
+   "address": "SIDECI CARREFOUR MANDJO ENTRE PALAIS DE JUSTICE ET LE PONT RESTAURE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie St Raphael (Nouvelle)",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 01 82 97 97",
+    "07 08 97 11 71"
+   ],
+   "address": "YOPOUGON CITE NOVALIM QUARTIER EECI / NON LOIN DE LA CLINIQUE STE RITA DE CASCIA",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Beyniouah",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 46 01 02",
+    "07 79 33 82 24"
+   ],
+   "address": "YOPOUGON NIANGON SUD / CARREFOUR DU MARCHE / FACE BANQUE SGBCI / BUS N° 27",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Niangon Nord",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 46 32 99"
+   ],
+   "address": "YOPOUGON NIANGON NORD / ROUTE DE DABOU ENTRE SICOGI ACADEMIE DE LA MER ET LA CITE VERTE / BUS 44",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Du Progres (Gde)",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 46 09 85",
+    "07 48 48 43 98"
+   ],
+   "address": "YOPOUGON MAROC / 5O M DE LA STATION PETRO-CI",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Route De Dabou (Ex Moaye)",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "25 23 00 72 90",
+    "01 03 13 80 48"
+   ],
+   "address": "YOPOUGON NIANGON ADJAME ROUTE DE DABOU PRES DU CIMETIERE MUNICIPAL",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Gloria",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 52 84 48",
+    "01 01 15 15 15",
+    "05 56 85 87 86"
+   ],
+   "address": "YOPOUGON ANANERAIE CARREFOUR ANTENNE / 300 M DU CARREFOUR CHU & EGLISE CMA / SENS EGLISE CMA / CARREFOUR OASIS",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie La Source",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 68 66 13 14",
+    "01 72 79 79 64"
+   ],
+   "address": "YOPOUGON GRAND CARREFOUR ZONE INDUSTRIELLE D’ANDOKOI / ENTRE LA BANQUE SGBCI ET LE DEPOT SOTRA",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Espoir Gesco",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 07 09 24 48",
+    "27 23 22 64 89",
+    "07 47 47 72 86"
+   ],
+   "address": "YOPOUGON MAMIE ADJOUA BATIM DESERT / NON LOIN DU COLLEGE VICTOR LOBA’D / DERRIERE L’EGLISE EVANGELIQUE.",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Rosee De L’Hermon",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 89 21 72 19",
+    "05 46 32 27 91"
+   ],
+   "address": "YOPOUGON ACADEMIE CARREFOUR DIOP",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Santa Maria D’Azito",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 14 21 60 42",
+    "05 55 16 16 27",
+    "01 71 06 67 61"
+   ],
+   "address": "YOPOUGON AZITO CARREFOUR CALLEBASSE",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Mariama D’Allokoi",
+   "commune": "Yopougon",
+   "zone": "Allokoi PK 23",
+   "phones": [
+    "07 98 69 13 55",
+    "05 74 69 22 25"
+   ],
+   "address": "AUTOROUTE DU NORD FACE A LA NOUVELLE ZONE INDUSTRIELLE DE YOPOUGON",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie De Locodjoro Sarl",
+   "commune": "Yopougon",
+   "zone": "Abobodoumé / Locodjoro",
+   "phones": [
+    "01 02 25 21 31"
+   ],
+   "address": "APRES LE MARCHE EN ALLANT VERS ABOBODOUME",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie St Aubin D’Agbayate",
+   "commune": "Yopougon",
+   "zone": "Abobodoumé / Locodjoro",
+   "phones": [
+    "05 46 05 34 36"
+   ],
+   "address": "YOPOUGON AGBAYATE QUARTIER JERUSALEM, CARREFOUR MOSQUEE BLANCHE EN FACE DE LA STATION NP",
+   "weekStart": "2026-10-24"
+  },
+  {
+   "name": "Pharmacie Magnificat",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "25 24 00 42 36",
+    "05 55 43 53 00"
+   ],
+   "address": "ROUTE D’ANYAMA NON LOIN DEPOT SOTRA 9 ABOBO AVOCATIER (PRES DU MARCHE DE NUIT)",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Abobo Grand Marche",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "05 44 96 91 01",
+    "05 74 10 50 50",
+    "05 74 10 20 20",
+    "05 85 50 70 70"
+   ],
+   "address": "CARREFOUR DU LYCEE MODERNE ABOBO 1&2 / ALIGNEMENT NSIA BANQUE / FACE AU MARCHE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie De La Mairie Abobo",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "27 24 39 32 48"
+   ],
+   "address": "CARREFOUR CENTRE CULTUREL / AVANT NOUVELLE MAIRIE / SUR ROUTE DU ZOO",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Al-Fatih",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "01 52 12 12 21"
+   ],
+   "address": "ABOBO SAGBE PALMERAIE, ROUTE DE BOCABO, NON LOIN DU COLLEGE BOCABO",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Ste Croix",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 78 13 75 03"
+   ],
+   "address": "ABOBO CAMP COMMANDO PRES CLINIQUE MEDICALE DE L’ETOILE ROUTE B.C.",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Yarapha",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "27 24 49 12 63"
+   ],
+   "address": "12 60 ABOBO CARREFOUR AKEIKOI / DERRIERE LA CITE UNIVERSITAIRE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Fadyl",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 88 89 90 76",
+    "25 24 00 05 86"
+   ],
+   "address": "ABOBO KENNEDY CLOUETCHA PRES DE LA MOSQUEE HADJA NABINTOU CISSE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Nouram",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 57 96 41 62",
+    "05 46 40 41 58"
+   ],
+   "address": "ABOBO – DOKUI ROUTE DU ZOO / 100 M DU CARREFOUR MAURITANIEN DANS LE SENS D’ABOBOTE FACE A L’ECOLE PRIMAIRE NOUVELLES ALLIANCES.",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Ste Odile",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "27 22 42 16 73",
+    "07 59 88 16 07",
+    "05 04 49 12 41",
+    "01 41 62 70 24"
+   ],
+   "address": "ARRET DE BUS PLATEAU DOKUI / ROUTE DU ZOO / CARREFOUR ARRET A DROITE EN VENANT DU ZOO / ALLOCODROME",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Actuelle",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "25 22 00 41 87",
+    "01 01 22 20 32",
+    "05 06 03 42 56",
+    "07 08 91 85 83"
+   ],
+   "address": "CARREFOUR ANGRE- ABOBO BAOULE / ENTRE LA STATION PETRO-IVOIRE D’ABOBOTE ET LE COLLEGE VICTOR LOBA’D / SUR LA NOUVELLE ROUTE RELIANT ANGRE A ABOBO",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Carrefour Anador",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 09 89 94 30",
+    "01 02 75 75 10"
+   ],
+   "address": "ABOBO ROND POINT CARREFOUR ANADOR / ROUTE DES RAILS EN FACE DE L’HOTEL ASSONVON",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Nour D’Abobo",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "05 74 00 55 44",
+    "01 43 16 46 54"
+   ],
+   "address": "ABOBO QUARTIER KENNEDY, RUE Q158, AU FEU DU CARREFOUR GRAND STOP, FACE A LA STATION SHELL.",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Route D’Alepe",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "07 97 96 83 37"
+   ],
+   "address": "QUARTIER BIABOU 2 AU PORTAIL PRES DE ‘’OP MARKET’’",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Baraka",
+   "commune": "Abobo",
+   "zone": "Abobo",
+   "phones": [
+    "01 72 80 00 88",
+    "27 20 39 48 62"
+   ],
+   "address": "QUARTIER ANADOR / ENVIRON 400 M DU ROND POINT ET A 50 M DES FEUX TRICOLORES DE LA MOSQUEE MOROBA",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Carrefour Diallo",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 57 04 86 48"
+   ],
+   "address": "ABOBO PK 18 - NDOTRE « DERRIERE PONT » AU CARREFOUR DIALLO",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Carrefour Ndotre",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "01 40 07 27 68",
+    "05 86 47 93 87"
+   ],
+   "address": "ABOBO-NDOTRE / GD CARREFOUR NDOTRE / A 20 M DE LA VOIE NON BITUMEE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Residence Abobo Pk 18",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 58 60 26 12",
+    "07 67 25 15 85"
+   ],
+   "address": "AUTOROUTE D’ANYAMA / CARREFOUR ANCIEN MARCHE ENTREE CITE SICOGI",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Saint Francois",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 88 67 78 69",
+    "05 65 46 05 76"
+   ],
+   "address": "CARREFOUR TERRE ROUGE SUR L’AXE N’DOTRE STADE OLYMPIQUE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Amina T",
+   "commune": "Abobo",
+   "zone": "Abobo PK 18",
+   "phones": [
+    "07 13 17 50 15"
+   ],
+   "address": "ANYAMA N’DOTRE KOBAKRO",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Le Labelle",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "05 95 57 95 06",
+    "01 43 54 40 83"
+   ],
+   "address": "ANYAMA QUARTIER ZOSSONKOI EXTENSION ENVIRON 500 M DE L’HOPITAL GENERAL D’ANYAMA",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Du Chateau",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "07 58 17 29 91",
+    "01 02 81 87 49"
+   ],
+   "address": "",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Route D’Anyama (Nouvelle)",
+   "commune": "Abobo",
+   "zone": "Anyama",
+   "phones": [
+    "01 52 78 88 33"
+   ],
+   "address": "ABOBO PK 18 FACE A LA SOCIETE OLAM (ex- UNICAFE) A 100M DE LA STATION PETROCI",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie De Brofodoume",
+   "commune": "Abobo",
+   "zone": "Alépé / Montezo / Brofodoumé",
+   "phones": [
+    "05 44 90 73 48",
+    "01 42 62 32 72"
+   ],
+   "address": "",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Du Chateau D'Eau",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 11 68"
+   ],
+   "address": "BD WILLIAM JACOB / ADJAME NORD / EN DESCENDANT LES RAILS VERS LA SODECI",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Gbede",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "07 58 09 47 03"
+   ],
+   "address": "BD. NANGUI ABROGOUA / FACE DISPENSAIRE D’ADJAME / NON LOIN DU COMMISSARIAT DU 3EME ARRONDT ET DU GD MARCHE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Adjame Bracodi",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 54 33",
+    "07 57 49 46 08"
+   ],
+   "address": "GARE NORD SOTRA DANS LA ZONE DE STATIONNEMENT DES GBAKAS / DANS LE SENS ADJAME ABOBO",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Fraternite (Nouvelle)",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "07 00 32 15 15",
+    "05 03 76 06 06",
+    "01 61 17 44 22"
+   ],
+   "address": "PRES DU FSU COM 220 LGTS (Ex MATERNITE THERESE HOUPHOUET BOIGNY)",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Adjame Latin",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "01 40 65 86 49",
+    "05 75 16 33 30"
+   ],
+   "address": "PROLONGEMENT DE L'AVENUE 13 / QUARTIER LATIN HABITAT EXTENSION / PRES DU PETIT MARCHE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Quartier Ebrie",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 12 56"
+   ],
+   "address": "FACE GARE STIFF DALOA",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie St Michel",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "27 20 37 09 06"
+   ],
+   "address": "AVENUE 13 / A 50 M DE L’EGLISE ST MICHEL / EN FACE DU CEG / HARRIS",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Makissi",
+   "commune": "Adjamé",
+   "zone": "Adjamé Centre",
+   "phones": [
+    "07 57 48 54 32"
+   ],
+   "address": "220 LGTS / PLACE DU CINEMA LIBERTE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Sebroko Sarl",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "27 20 37 67 48"
+   ],
+   "address": "PRES DU GRAND MARCHE D’ATTECOUBE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Du Rond Point",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "25 21 01 59 47",
+    "07 07 32 43 76"
+   ],
+   "address": "ATTECOUBE TERMINUS 04 / QUARTIER EBRIE (BIDJANTE)",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Christ Stella",
+   "commune": "Adjamé",
+   "zone": "Attécoubé",
+   "phones": [
+    "01 71 56 18 17",
+    "27 20 28 62 96"
+   ],
+   "address": "CITE FAIRMOND ATTECOUBE APRES NOUVELLE GENDARMERIE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Aimess",
+   "commune": "Adjamé",
+   "zone": "Williamsville",
+   "phones": [
+    "07 57 48 94 83",
+    "25 20 00 94 62"
+   ],
+   "address": "WILLIAMSVILLE / ROUTE MACACI / FACE CRS",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Carrefour Hma",
+   "commune": "Adjamé",
+   "zone": "Williamsville",
+   "phones": [
+    "07 79 47 39 22",
+    "05 76 54 52 14"
+   ],
+   "address": "PAILLET EXTENSION / NON LOIN DU ZOO CARREFOUR CI",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Nissi (Nouvelle)",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "27 22 40 19 04",
+    "07 87 31 66 48",
+    "07 58 33 88 48"
+   ],
+   "address": "CITE FEH KESSE SUR LA NOUVELLE VOIE GOUDRONNEE / 300 M APRES L’ECOLE MATERNELLE LA PRUNELLE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Marina",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "27 22 27 04 92",
+    "07 97 16 64 99",
+    "01 40 08 74 21"
+   ],
+   "address": "CITE MARINA CARREFOUR SYNDICAT",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Carrefour Sante",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "07 59 59 30 17"
+   ],
+   "address": "BINGERVILLE AKOUAI SANTAI STATION CORLAY AU CARREFOUR DU LYCEE DES JEUNES FILLES MAMIE FAITAI",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Kore",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "07 16 00 15 15",
+    "01 01 76 76 32"
+   ],
+   "address": "BINGERVILLE GBAGBA EXTENSION CARREFOUR SAINT CYRILLE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Akre Albert Assamoi",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "07 57 13 68 36",
+    "01 40 95 24 28"
+   ],
+   "address": "NLLE GARE ROUTIERE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie St Armel Du Palais",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "05 65 44 81 81",
+    "01 51 31 81 81"
+   ],
+   "address": "SITUEE A 100 M DU PALAIS DE JUSTICE DE BINGERVILLE, AXE M’BATTO-BOUAKE (NANMOUE RESIDENCE)",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Amaryllis",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "01 41 17 82 92",
+    "27 24 30 86 08"
+   ],
+   "address": "BINGERVILLE DERRIERE LE JARDIN BOTANIQUE. CITES SPIAC, OPES 1, S 3 I, GARE DE TAXI",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Akandje",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "01 72 75 01 01",
+    "05 06 39 16 55",
+    "07 00 77 96 70"
+   ],
+   "address": "BINGERVILLE AKANDJE 2 EN FACE DU MARCHE NON LOIN DES SOCIETES PROMOTIONS PERFORMERS",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Idureil",
+   "commune": "Cocody",
+   "zone": "Bingerville",
+   "phones": [
+    "05 55 74 06 18",
+    "07 49 37 95 73"
+   ],
+   "address": "FACE / BINGERVILLE KOFFIKRO CARREFOUR BASSAMOISE NON LOIN DE COTE D’IVOIRE ENERGIE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Hosanna",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 55 25 59",
+    "01 01 17 29 31",
+    "07 97 64 33 50"
+   ],
+   "address": "RIVIERA 3 TRIANGLE / ENTRE LE CENTRE DES IMPOTS DE LA RIVIERA ET LE RD POINT DE L’ANCIEN CAMP D’AKOUEDO / PRES DE LA CLINIQUE ST VIATEUR",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Eliezer",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 51 96 72",
+    "01 71 49 49 37"
+   ],
+   "address": "RIVIERA FAYA CARREFOUR AKOUEDO ZONE OPERATION IMMOBILIERE ATCI",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie De L’Alliance Akouedo Basket",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "05 65 24 96 46"
+   ],
+   "address": "RIVIERA AKOUEDO SECTEUR BASKET",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Route D’Abatta",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "07 02 28 82 22",
+    "27 24 34 03 39"
+   ],
+   "address": "ROUTE D’ABATTA CITE DU PORT AUTONOME D’ABIDJAN",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Cyd Niko Des Lauriers",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 22 47 69 27",
+    "07 77 00 00 76"
+   ],
+   "address": "RIVIERA 5 / BD MITTERRAND FACE PETIT PORTAIL DE LA CITE GENIE 2000",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Cite Sir",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "05 84 33 80 79"
+   ],
+   "address": "ABATTA VERS LA CITE SIR",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Kamon N’Sio",
+   "commune": "Cocody",
+   "zone": "Akouédo / Palmeraie Ext. / Abatta",
+   "phones": [
+    "27 21 52 41 53",
+    "07 06 84 75 53",
+    "01 71 32 65 41",
+    "05 64 30 68 05"
+   ],
+   "address": "ABATTA RIVIERA EPHRATA IMMEUBLE SYMPHONIUM EN DIRECTION DE LA CITE BNETD ET LA CITE SIR EN VENANT DU NOUVEAU GOUDRON",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie De L’Immaculee Conception",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 54 13 93",
+    "07 09 77 30 30"
+   ],
+   "address": "RIVIERA GOLF / FACE CITE « LES JARDINS DE LA RIVIERA» NON LOIN PETITE MOSQUEE DE LA RIVIERA APRES L’UNIVERSITE FHB",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Du Patrimoine",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 31 94 29",
+    "05 01 41 33 33"
+   ],
+   "address": "COCODY RIVIERA ATTOBAN AV DU COLONEL ZINSOU CARREFOUR CAMP",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Bon Pasteur",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "07 58 09 46 75",
+    "27 22 47 04 05",
+    "27 22 47 03 91"
+   ],
+   "address": "RIVIERA III CARREFOUR LYCEE FRANÇAIS FACE EGLISE BON PASTEUR PRES DU COLLEGE L’ARDOISE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Les Jardins D’Eden",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 43 82 67",
+    "07 79 19 20 04",
+    "01 01 37 58 10",
+    "07 68 78 44 51"
+   ],
+   "address": "RIVIERA 4 / AXE MPOUTO-CIAD-AMBASSADE DE CHINE / FACE ECOLE LIBANAISE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Marie Esther (Grande)",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "07 78 99 92 59",
+    "07 79 77 57 71",
+    "27 22 49 53 23"
+   ],
+   "address": "RIVIERA PALMERAIE / ROSIERS PROGRAMME 4 / ROUTE DU LYCEE SAINT VIATEUR",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Rue Ministre (Nvelle)",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 59 56 67",
+    "07 69 16 56 15",
+    "05 04 58 44 56"
+   ],
+   "address": "RIVIERA PALMERAIE / RUE MINISTRE / DERRIERE LA BICICI PALMERAIE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie St Paul",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 49 29 01"
+   ],
+   "address": "RIVIERA PALMERAIE / BONOUMIN CARREFOUR CITE PRESSE (SYNINFO) EN FACE DE LA RESIDENCE DES FRERES DU SACRE CŒUR",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Les 3 Sources",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "27 22 89 99 71",
+    "07 10 29 55 15",
+    "05 02 32 59 59",
+    "01 51 34 96 96"
+   ],
+   "address": "CARREFOUR PETRO-IVOIRE DJOROBITE 1 / ADOSSEE A CHATEAUX ET LUMIERES / AVENUE TIEMOKO MEYLIET AVANT LE TERMINUS SOTRA",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Bonoumin (Nouvelle)",
+   "commune": "Cocody",
+   "zone": "Riviera",
+   "phones": [
+    "07 07 93 68 50",
+    "27 22 49 49 34"
+   ],
+   "address": "COCODY RIVIERA BONOUMIN / VOIE MENANT DU COLLEGE ANDRE MALRHAUX A L’EGLISE LA DESTINEE (NOUVEAU GOUDRON)",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Des Arts (Gde)",
+   "commune": "Cocody",
+   "zone": "Cocody",
+   "phones": [
+    "27 22 44 93 56",
+    "01 02 04 17 11"
+   ],
+   "address": "CENTRE COMMERCIAL DE LA CITE DES ARTS",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie De Cocody",
+   "commune": "Cocody",
+   "zone": "Cocody",
+   "phones": [
+    "27 22 44 24 95"
+   ],
+   "address": "CENTRE COMMERCIAL PETIT MARCHE SCORE / FACE ALLOCODROME",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Espace Sante",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "01 40 45 06 23",
+    "07 07 58 53 86"
+   ],
+   "address": "BD LATRILLE / CARREFOUR ROUTE DU ZOO",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Notre Dame De La Visitation",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "05 86 32 41 45",
+    "07 88 81 21 83"
+   ],
+   "address": "II PLATEAUX FACE AU 12ème ARRONDISSEMENT",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Latrille",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 46 40 04",
+    "01 03 76 30 40",
+    "07 57 49 08 40"
+   ],
+   "address": "BD LATRILLE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Las Palmas",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 42 14 79",
+    "01 01 21 65 65"
+   ],
+   "address": "II PLATEAUX – AGHIEN / BD LATRILLE - CARREFOUR LAS PALMAS",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Noemie S.A.R.L",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 52 20 51",
+    "07 48 64 67 64"
+   ],
+   "address": "FACE L'ENA / COCODY II PLATEAUX / CARREFOUR LES OSCARS DERRIERE LE GLACIER LES OSCARS",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie St Christophe",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "07 02 93 42 59",
+    "01 53 33 50 02"
+   ],
+   "address": "ANGRE BD LATRILLE / STAR 5 CARREFOUR PETRO IVOIRE ROUTE D’ABOBO",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Les Arums",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 50 66 40",
+    "07 58 17 16 19"
+   ],
+   "address": "COCODY II PLATEAUX 8EME TRANCHE / CARREFOUR BCEAO SUR LA GRANDE VOIE MENANT A LA CNPS",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Ste Harmony",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "27 22 52 39 97"
+   ],
+   "address": "QUARTIER DJIBI / VOIE PRINCIPALE / 400 M APRES TERMINUS BUS 82 – 81 / PRES DU SUPER MARCHE DISCOUNT",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Luminance K",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "07 88 06 17 41",
+    "05 45 95 45 39"
+   ],
+   "address": "COCODY ANGRE DJIBI GROUPEMENT 4000 BATIM-CI 300 M DE LA MOSQUEE D’ANGRE ET DU CENTRE DE SANTE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Ste Dorothee",
+   "commune": "Cocody",
+   "zone": "II Plateaux",
+   "phones": [
+    "07 79 59 38 84"
+   ],
+   "address": "ANGRE EXTENSION ENTRE LE COLLEGE LES FLORIANES ET LA PAROISSE SAINTE DOROTHEE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Beniabie",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 28 95 25"
+   ],
+   "address": "BD DU CAIRE TERMINUS BUS 13 26 - 33",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie De Koumassi",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 36 19 85"
+   ],
+   "address": "BD DU 7 DECEMBRE / PRES DE LA FORMATION SANITAIRE DE KOUMASSI",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Des Sables",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 28 84 17"
+   ],
+   "address": "KOUMASSI REMBLAIS / VOIE PRINCIPALE PRES DE LA CITE BATIM SIR",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Quartier Divo",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "05 46 20 86 59"
+   ],
+   "address": "KOUMASSI QUARTIER DIVO / ENTRE LE MAQUIS « CALAO » ET LE « CANIVEAU »",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie St Joseph Artisan (Nouvelle)",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 36 79 91",
+    "07 79 27 71 58"
+   ],
+   "address": "KOUMASSI CARREFOUR CANETON DERRIERE LE LYCEE MUNICIPAL",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Saint Louis",
+   "commune": "Koumassi",
+   "zone": "Koumassi",
+   "phones": [
+    "27 21 36 04 15"
+   ],
+   "address": "BD DU CAMEROUN FACE EPP / BARADJI APRES ZONE REMBLAIS ENTRE EGLISE ST. FRANCOIS & EGLISE PRODOMO - LIGNE BUS 05",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Du Grand Marche De Marcory",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "27 21 56 90 96"
+   ],
+   "address": "",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Bethesda Residentielle",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "01 02 01 50 79 13 0"
+   ],
+   "address": "M DE LA CLINIQUE FARAH A 200 M DU TERMINUS 04",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Ste Therese",
+   "commune": "Marcory",
+   "zone": "Marcory Nord",
+   "phones": [
+    "27 21 26 77 10"
+   ],
+   "address": "AVENUE T S F",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie El Olam (Nouvelle)",
+   "commune": "Marcory",
+   "zone": "Anoumabo",
+   "phones": [
+    "25 21 00 40 97",
+    "07 79 97 62 66",
+    "01 71 71 61 44"
+   ],
+   "address": "CARREFOUR AMAGOU PRES DU MARCHE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Notre Dame D’Afrique",
+   "commune": "Marcory",
+   "zone": "Marcory Sud",
+   "phones": [
+    "27 21 25 25 26 37"
+   ],
+   "address": "BD DE MARSEILLE / FACE COLLEGE NOTRE DAME D’AFRIQUE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie St Antoine",
+   "commune": "Marcory",
+   "zone": "Marcory Sud",
+   "phones": [
+    "07 88 88 30 61",
+    "07 00 00 00 81"
+   ],
+   "address": "MARCORY ZONE 4 / RUE DR BLANCHARD FACE AU NOUVEAU SIEGE RMO, A 100M DE LA MOSQUEE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie De La Galerie",
+   "commune": "Marcory",
+   "zone": "Marcory Sud",
+   "phones": [
+    "27 21 35 24 73"
+   ],
+   "address": "BD. GISCARD D'ESTAING ANGLE RUE THOMAS EDISON (SUPER HAYAT)",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie De L’Avenue Nogues (Nouvelle)",
+   "commune": "Plateau",
+   "zone": "Plateau",
+   "phones": [
+    "27 20 31 16 12"
+   ],
+   "address": "DANS LE LOCAL COMMERCIAL DE L’IMMEUBLE GREEN, NON LOIN DE LA BSIC",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie De La Cite Policiere",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "07 07 07 58 00"
+   ],
+   "address": "CITE POLICIERE ROUTE DE VRIDI",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie De Port-Bouet",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "27 21 27 89 17",
+    "01 40 77 08 68"
+   ],
+   "address": "PRES DU CENTRE PILOTE DES JEUNES DE PORT BOUET",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie De L'Ocean",
+   "commune": "Port-Bouët",
+   "zone": "Port-Bouët Centre",
+   "phones": [
+    "27 21 27 78 48"
+   ],
+   "address": "ANGLE AV. PACIFIQUE & RUE DES ESPADONS PROLONGEMENT DE LA BOULANGERIE BOE ET DU CEG / PORT BOUET",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Vridi-Sir",
+   "commune": "Port-Bouët",
+   "zone": "Vridi",
+   "phones": [
+    "27 21 27 02 60",
+    "01 41 85 46 28"
+   ],
+   "address": "VRIDI CITE / ENTRE LA CITE POLICIERE ET L’HOPITAL MUNICIPAL DE VRIDI CITE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Sante Pour Tous",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "01 01 69 38 91",
+    "07 08 02 47 86"
+   ],
+   "address": "PORT BOUET / RUE CASIER CARREFOUR BACHIROU SUR LA VOIE DE L’EGLISE CATHOLIQUE CHRIST ROI DE JEAN FOLLY",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie St Louis De Gonzag",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "07 58 09 46 25",
+    "01 42 50 98 55"
+   ],
+   "address": "FACE LYCEE MUNICIPAL DE GONZAG",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie De La Benediction",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "01 43 20 82 14",
+    "27 33 73 48 46",
+    "28 33 73 48 35"
+   ],
+   "address": "CARREFOUR MOTAR DANS LA ZONE DU JOCKEY CLUB - GONZAGUEVILLE COCOTERAIE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Anani",
+   "commune": "Port-Bouët",
+   "zone": "Adjouffou / Gonzagueville / Anani",
+   "phones": [
+    "07 78 54 34 66",
+    "01 01 39 23 89"
+   ],
+   "address": "PORT-BOUËT, ANANI, APRES LE MARCHE EN ALLANT VERS LE QUARTIER PETIT PARIS",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie De La Mairie",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "07 59 89 11 12",
+    "27 21 24 45 87"
+   ],
+   "address": "AVENUE 1 FACE A LA GARE REPUBLICAINE / A COTE DE LA GARE DES BATEAUX-BUS SOTRA",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Du Port",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "27 21 25 21 29",
+    "07 77 30 80 25"
+   ],
+   "address": "BD DE VRIDI / MARCHE AUX POISSONS ET SOTRA",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Alpha 16",
+   "commune": "Treichville",
+   "zone": "Treichville",
+   "phones": [
+    "01 01 68 42 97",
+    "07 58 17 61 85"
+   ],
+   "address": "AVENUE 16 RUE 17 / A COTE DE TREICH-HOTEL",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Selmer",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 07 33 58 06",
+    "07 79 42 42 59"
+   ],
+   "address": "YOPOUGON SELMER A 50 M DE LA MAIRIE CENTRALE DE YOPOUGON SELMER (AXE WILLIAM PONTY – MAIRIE)",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Du Marche",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 53 50 72 72",
+    "07 09 84 34 91",
+    "01 01 07 48 10"
+   ],
+   "address": "PRES DU MARCHE DE LA SICOGI I / CARREFOUR SICOGI I – SOGEFIHA",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie La Maison Blanche",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 51 47 46",
+    "01 01 03 59 59"
+   ],
+   "address": "YOPOUGON PORT BOUET II / MAISON BLANCHE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Gabriel Gare",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 02 76 05 36",
+    "07 07 68 27 20"
+   ],
+   "address": "YOPOUGON GARE / ZONE GABRIEL GARE / PRES DE L’ECOLE DES SOURDS",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Afia",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 07 46 12 50"
+   ],
+   "address": "YOPOUGON QUARTIER MILLIONNAIRE PRES DU LYCEE DE JEUNES FILLES",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Toits Rouges",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 45 16 93"
+   ],
+   "address": "01-03-88-04-04",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Noya Kabod",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 03 04 23 25",
+    "05 74 04 11 14"
+   ],
+   "address": "YOPOUGON KOUTE EXTENSION AU NIVEAU DU ROND POINT DU COLLEGE ST FRANCOIS",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Rabbi",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 59 79 59 41",
+    "01 71 91 66 28",
+    "07 58 49 96 87"
+   ],
+   "address": "YOPOUGON SIDECI LEM 1ER LAVAGE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Roxanne",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 45 70 75",
+    "01 03 58 90 84"
+   ],
+   "address": "YOPOUGON CITE CIE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Niangon Sud",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 43 50 86",
+    "07 57 48 53 61"
+   ],
+   "address": "NIANGON SUD A GAUCHE AU CARREFOUR DE L’ALLOCODROME",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Esther",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 46 39 36"
+   ],
+   "address": "YOPOUGON NIANGON A DROITE / CITE CAFEIER",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Che N’Tale",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 23 52 62 03",
+    "05 04 75 20 69"
+   ],
+   "address": "ANANERAIE / A 200 M DU COLLEGE GUCHANROLAIN / BORDURE DE ROUTE VOIE MENANT AU CARREFOUR SORBONNE NON LOIN DE LA CLINIQUE STE JANE LEORA",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie De Gesco",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "25 23 00 18 24",
+    "05 75 40 92 23"
+   ],
+   "address": "QUARTIER GESCO / EN FACE DU MARCHE",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Ste Marie",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "01 03 33 94 73"
+   ],
+   "address": "YOPOUGON ANDOKOUA / FACE PONT PIETON / A COTE DE LA STATION TOTAL",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Koweit Marche",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "27 24 34 47 77",
+    "07 00 58 36 06"
+   ],
+   "address": "QUARTIER KOWEIT PRES DU MARCHE A L’ENTREE DES CITES NESTLE (BUS 600 / CARREFOUR BAUER)",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Forets",
+   "commune": "Yopougon",
+   "zone": "Yopougon",
+   "phones": [
+    "07 78 84 72 61",
+    "27 21 74 86 67"
+   ],
+   "address": "YOPOUGON ZONE INDUSTRIELLE CARREFOUR CITE ADO",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Vie Divine D’Allokoi",
+   "commune": "Yopougon",
+   "zone": "Allokoi PK 23",
+   "phones": [
+    "07 05 75 76 90",
+    "05 01 19 23 23"
+   ],
+   "address": "AUTOROUTE DU NORD (KM22) EN FACE DE LA NOUVELLE ZONE INDUSTRIELLE DE YOPOUGON",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie D'Abobodoume",
+   "commune": "Yopougon",
+   "zone": "Abobodoumé / Locodjoro",
+   "phones": [
+    "27 21 32 39 90",
+    "01 71 28 85 72",
+    "07 58 48 07 89"
+   ],
+   "address": "FACE NOUVEAU LYCEE MUNICIPAL D'ATTECOUBE / PRES DE LA FORMATION SANITAIRE M. FAITAI ABOBODOUME / CARREFOUR DES GBAKAS",
+   "weekStart": "2026-10-31"
+  },
+  {
+   "name": "Pharmacie Mere De Graces",
+   "commune": "Yopougon",
+   "zone": "Abobodoumé / Locodjoro",
+   "phones": [
+    "23 22 85 02",
+    "05 56 00 43 54",
+    "07 20 60 35 60"
+   ],
+   "address": "BANCO NORD SUR L’AXE INSTITUT DES AVEUGLES - S.I BETON",
+   "weekStart": "2026-10-31"
+  }
+ ]
+}
