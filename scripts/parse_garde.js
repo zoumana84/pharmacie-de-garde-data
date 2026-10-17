@@ -78,15 +78,17 @@ const isNoise = l => !l || /^--- Page Break|^Permanence|TOUR DE GARDE|^(?:Secteu
 const titleCase = s => s.toLowerCase().replace(/(^|[\s(’'\-\/.])(\p{L})/gu, (m, p, c) => p + c.toUpperCase());
 
 // entryLines: first line is the pharmacy line, the rest are continuation lines.
+// Line breaks only reflect how pdftotext wrapped the text (it differs between versions),
+// so they are joined with a plain space; only the PDF's own "/" separate fields.
 function parseEntry(entryLines) {
-  const text = entryLines.join(' \n ');
+  const text = entryLines.join(' ');
   let head, tail;
   const m = text.match(TEL);
   if (m) { head = text.slice(0, m.index); tail = text.slice(m.index + m[0].length); }
-  else { head = entryLines[0]; tail = entryLines.slice(1).join(' \n '); }
+  else { head = entryLines[0]; tail = entryLines.slice(1).join(' '); }
 
   // Name ends at the owner part: "/", " – ", or an owner title (M., MME, MLLE)
-  const nameRaw = head.replace(/\n/g, ' ')
+  const nameRaw = head
     .replace(/^Secteur \d+\s+/i, '').replace(/^(?:P\s?H\s?C\s?I\s?E|PHARMACIE)\s*/i, '')
     .split(/\/|\s–\s|\s–$|\s(?:M\.?|MME\.?|MLLE\.?)\s/)[0].replace(/[\s–-]+$/, '').trim();
   const name = 'Pharmacie ' + titleCase(nameRaw).replace(/\(Nlle\)|\(Nvlle\)/i, '(Nouvelle)');
@@ -95,17 +97,27 @@ function parseEntry(entryLines) {
   // The address can follow the last phone without a "/" ("TEL. 27 24 39 13 84 EN FACE DE ...").
   const phones = [];
   const rest = [];
-  const segs = tail.replace(/^(?:T\s?E\s?L\s*[.:]*\s*)+/, '').replace(/\s[–-]\s(?=\d\d(?:\s?\d\d){3,4}\b)/g, ' / ').split(/\/|\n/);
+  let pendingPrefix = '';
+  const segs = tail.replace(/^(?:T\s?E\s?L\s*[.:]*\s*)+/, '').replace(/\s[–-]\s(?=\d\d(?:\s?\d\d){3,4}\b)/g, ' / ').split('/');
   for (const seg of segs) {
-    const t = seg.trim();
+    const t = norm(seg);
     if (!t) continue;
-    const m = rest.length === 0 && t.match(/^([\d ]*\d)(?:\s+(.*))?$/);
-    const digits = m ? m[1].replace(/\s/g, '') : '';
+    if (rest.length) { rest.push(t); continue; }
+    // Take leading digit groups up to one 10-digit number ("27 22 55 7 9 07" is one number);
+    // whatever follows ("EN FACE DE ...", "220 LGTS") is the start of the address.
+    const tokens = t.split(' ').map(tok => tok.replace(/^(\d+)[.,;]$/, '$1')); // "50 21." -> "50 21"
+    let digits = '', i = 0;
+    while (i < tokens.length && /^\d+$/.test(tokens[i]) && digits.length + tokens[i].length <= 10) digits += tokens[i++];
+    const after = tokens.slice(i).join(' ');
     if (digits.length >= 8) {
-      phones.push(digits.match(/.{1,2}/g).join(' '));
-      if (m[2]) rest.push(m[2]);
-    } else if (m && !m[2]) {
+      // "TEL. 27 / 23 22 85 02": a 2-digit prefix split off by a typo in the PDF
+      const full = digits.length === 8 && pendingPrefix ? pendingPrefix + digits : digits;
+      phones.push(full.match(/.{1,2}/g).join(' '));
+      pendingPrefix = '';
+      if (after) rest.push(after);
+    } else if (digits && !after) {
       // short digit runs are extension fragments like "27 80": skip
+      pendingPrefix = phones.length === 0 && digits.length === 2 ? digits : '';
     } else rest.push(t);
   }
   // Yopougon entries end with the next entry's "Secteur N" label ("Se cteur 1 5")
