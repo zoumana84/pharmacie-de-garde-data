@@ -191,11 +191,23 @@ function parseFile(input) {
   return entries;
 }
 
+// A garde.json published by the data repo can be used as input too (to refresh the copy bundled in the app).
+// Prefer it over parsing PDFs locally: older pdftotext builds (e.g. Git for Windows) sometimes move a
+// zone heading to the top of the page, which files those pharmacies under the wrong zone.
+function readJson(input) {
+  const data = JSON.parse(fs.readFileSync(input, 'utf8'));
+  const endOf = Object.fromEntries(data.weeks.map(w => [w.start, w.end]));
+  return data.pharmacies.map(p => ({
+    name: p.name, phones: p.phones, address: p.address, commune: p.commune, zone: p.zone, start: p.weekStart, end: endOf[p.weekStart],
+  }));
+}
+const loadInput = input => (/\.json$/i.test(input) ? readJson(input) : parseFile(input));
+
 // Monthly file first; each later file replaces the (week, zone) lists it contains.
-let out = parseFile(inputs[0]);
+let out = loadInput(inputs[0]);
 const zoneOrder = [...new Set(out.map(x => x.zone))];
 for (const input of inputs.slice(1)) {
-  const update = parseFile(input);
+  const update = loadInput(input);
   const replaced = new Set(update.map(x => x.start + '|' + x.zone));
   const before = out.length;
   out = out.filter(x => !replaced.has(x.start + '|' + x.zone)).concat(update);
